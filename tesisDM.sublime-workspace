@@ -1,0 +1,854 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ni",
+				"nivel6"
+			],
+			[
+				"ge",
+				"getElementsByTagName"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"x",
+				"xhr2"
+			],
+			[
+				"xh",
+				"xhr1"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"pro",
+				"product_count"
+			],
+			[
+				"produ",
+				"product_count"
+			],
+			[
+				"product",
+				"product_count"
+			],
+			[
+				"prod",
+				"product_array"
+			],
+			[
+				"ta",
+				"table_row"
+			],
+			[
+				"table",
+				"table_cell_array"
+			],
+			[
+				"tabl",
+				"table_array"
+			],
+			[
+				"urltr",
+				"urltrans"
+			],
+			[
+				"domain",
+				"domainTranslateGoogle"
+			],
+			[
+				"domai",
+				"domainTranslateGoogle"
+			],
+			[
+				"xpat",
+				"xpathProd"
+			],
+			[
+				"if",
+				"ifelse	if … else …"
+			],
+			[
+				"web",
+				"web_page"
+			],
+			[
+				"node",
+				"nodelists"
+			],
+			[
+				"ur",
+				"urlXtranslate"
+			],
+			[
+				"list",
+				"list"
+			],
+			[
+				"par",
+				"parsedDate"
+			],
+			[
+				"se",
+				"search1"
+			],
+			[
+				"text",
+				"textoAbstracts"
+			],
+			[
+				"te",
+				"texto"
+			],
+			[
+				"tex",
+				"textContent"
+			],
+			[
+				"url",
+				"url2"
+			],
+			[
+				"p",
+				"poblarDivEstrategia"
+			],
+			[
+				"lista",
+				"listaAbstracts"
+			],
+			[
+				"listado",
+				"listadoIds"
+			],
+			[
+				"li",
+				"ListaIDs"
+			],
+			[
+				"getE",
+				"getElementsByTagName"
+			],
+			[
+				"rec",
+				"rects2"
+			],
+			[
+				"rects",
+				"rects1"
+			],
+			[
+				"rect",
+				"rects1"
+			],
+			[
+				"re",
+				"rects1"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"rsI",
+				"rsIDs"
+			],
+			[
+				"sql",
+				"sqlpersist"
+			],
+			[
+				"hits",
+				"hits_espacio"
+			],
+			[
+				"hit",
+				"hits_event"
+			],
+			[
+				"fir",
+				"firstsig"
+			],
+			[
+				"ae",
+				"ae"
+			],
+			[
+				"id",
+				"idpar"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"co",
+				"combinada"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"str",
+				"strategy"
+			],
+			[
+				"to",
+				"totalrows"
+			],
+			[
+				"hi",
+				"hits_par"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"UR",
+				"urllist"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"DI",
+				"div	Tag"
+			],
+			[
+				"svg",
+				"svgcanvas"
+			],
+			[
+				"d3",
+				"d3image"
+			],
+			[
+				"tot",
+				"totalCits"
+			],
+			[
+				"ys",
+				"yscaleCum"
+			],
+			[
+				"n",
+				"nrows"
+			],
+			[
+				"pubs",
+				"pubs"
+			],
+			[
+				"yax",
+				"yAxisCum"
+			],
+			[
+				"line",
+				"lineFunctionCum"
+			],
+			[
+				"P",
+				"_POST"
+			],
+			[
+				"mysqli_f",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"parse",
+				"parseFloat"
+			],
+			[
+				"forma",
+				"formatDate"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"en",
+				"envANMAT"
+			],
+			[
+				"part",
+				"partnerproc"
+			],
+			[
+				"ass",
+				"assessment"
+			],
+			[
+				"case",
+				"casenew"
+			],
+			[
+				"log",
+				"log2"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"plo",
+				"plotear"
+			],
+			[
+				"correlog",
+				"correlogramas"
+			],
+			[
+				"corr",
+				"correlograma"
+			],
+			[
+				"et",
+				"etm_p"
+			],
+			[
+				"cio",
+				"ciomsu"
+			],
+			[
+				"io",
+				"ioa_p"
+			],
+			[
+				"no",
+				"node4"
+			],
+			[
+				"EVN",
+				"EVENT_REC"
+			],
+			[
+				"info",
+				"infoAdjProd"
+			],
+			[
+				"prodC",
+				"prodCondExp"
+			],
+			[
+				"prodI",
+				"prodInteraccion"
+			],
+			[
+				"prodAnt",
+				"prodAntidot"
+			],
+			[
+				"proy",
+				"proyProspecto"
+			],
+			[
+				"f",
+				"prodFormula"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "xmlPMIDs/curllink.txt",
+			"settings":
+			{
+				"buffer_size": 2464,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/francisco/Google Drive/fv/PSURs/circuitoCalidad.dot",
+		"/Users/francisco/Google Drive/prueba/meme.html",
+		"/Users/francisco/Google Drive/node/pubMed5.js",
+		"/Users/francisco/Google Drive/node/pubMed4.js",
+		"/Users/francisco/Google Drive/node/pubMed3.js",
+		"/Users/francisco/Google Drive/node/pubMed2.js",
+		"/Users/francisco/Google Drive/fv/reportesANMAT/linksExternos",
+		"/Applications/solr/solr-4.4.0/example/exampledocs/pubmedjuguete/aspirinBleeding1.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/scripts/otro.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/scripts/otroprocesspage.html",
+		"/Users/francisco/Dropbox/galli/solr1/scrap.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/scripts/processpage.html",
+		"/Users/francisco/Dropbox/galli/solr1/path.txt",
+		"/Users/francisco/Downloads/0810 345 0240",
+		"/Users/francisco/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/francisco/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/Users/francisco/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/francisco/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/francisco/Google Drive/node/socketioexample.njs.js",
+		"/Users/francisco/Google Drive/node/httpclientPubMed.njs.js",
+		"/Users/francisco/Google Drive/node/httpclient.njs.js",
+		"/Applications/solr/solr-4.4.0/example/solr/collection1/conf/schemaViejo.xml",
+		"/Users/francisco/Dropbox/galli/solr1/brief.xml",
+		"/Users/francisco/Dropbox/galli/solr1/schema.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/pubmedsearch5termsFlat.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/buscadorpubmed5termsFlat.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/pubmedabstracts5termsEcon.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper02/indexarxml2.php",
+		"/Users/francisco/Dropbox/galli/solr1/scrap01",
+		"/Users/francisco/Dropbox/Jornadas/Introducción",
+		"/Users/francisco/Google Drive/supervivencia/rg20130904/metodos.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper02",
+		"/Applications/solr/solr-4.4.0/example/exampledocs/pubmed/aspirinBleeding1.xml",
+		"/Users/francisco/Dropbox/galli/MedDRA.dot",
+		"/Users/francisco/Google Drive/java/lucene/LuceneCreateIndexApp.java",
+		"/Users/francisco/Google Drive/java/lucene/texto/pg84.txt",
+		"/Users/francisco/Google Drive/java/lucene/LuceneCreateIndexApp2.java",
+		"/Users/francisco/Google Drive/java/lucene/index1.sh",
+		"/Users/francisco/Dropbox/tt2/20130919.txt",
+		"/Users/francisco/Google Drive/java/lucene/index1.java",
+		"/Users/francisco/Downloads/lucexample/HelloLucene.class",
+		"/Applications/XAMPP/xamppfiles/htdocs/lenton/consultas.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/dipvis/diputados.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/lib/LIB_parse.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/askap01.php",
+		"/Users/francisco/Downloads/danton pareja 3868",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/profiler.php",
+		"/Users/francisco/Downloads/listaproductoskairos",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/profiler3.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/profiler2.php",
+		"/Users/francisco/Google Drive/mining/textmining2013/20130607.txt",
+		"/Users/francisco/Downloads/jovenEstudiante.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/rxprofile.html",
+		"/Users/francisco/Google Drive/mining/textmining2013/20130524.txt",
+		"/Users/francisco/Downloads/temp/vast/content",
+		"/Users/francisco/Downloads/temp/ANMATpoblacion expuesta",
+		"/Applications/XAMPP/xamppfiles/htdocs/pruebas/nf123ct.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/pruebas/scatter.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/scripts/processpage.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/scripts/processpageBCKP.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/lib/funciones.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/styles/ether.css",
+		"/Users/francisco/Google Drive/mining/textmining2013/20130412",
+		"/Users/francisco/Google Drive/mining/textmining2013/20130405",
+		"/Applications/XAMPP/xamppfiles/htdocs/script01.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/script01.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/bingo.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/pubmedsearch6multiLocalDB2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/tabletag.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/progressbar01.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/mbostok01.html",
+		"/Users/francisco/Documents/labsaca.csv",
+		"/Users/francisco/Google Drive/temp/projether/datasetPreparation",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/buscadorpubmed6multi.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/meds1/nuevanotificacion.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/regmeds/regslistar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/pruebasCss.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/pruebasjsyd3_02.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/ether01.php",
+		"/Users/francisco/node_modules/hw.js",
+		"/Users/francisco/Documents/rapidminer.txt",
+		"/Users/francisco/Google Drive/temp/projether/notas",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/pubmedsearch6multi_BK03.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/pubmedsearch6multi_BK02.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/pubmedsearch6multi_BK01.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/regmeds/ifaseditar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/pubmedsearch5.php",
+		"/Users/francisco/Downloads/15-6051-6555",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/lineas8_sizeChange.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/pubmedsearch5terms.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/pubmedabstracts5terms.php",
+		"/Users/francisco/Downloads/telefonos",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/pubmedsearch3fetch1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pruebas/data.tsv",
+		"/Applications/XAMPP/xamppfiles/htdocs/pruebas/bostoklines.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/pruebas/path.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/lineas5_yearmes_Uchart.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/lomacPOST01.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/lomac01.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/d3-book-master/chapter_12/us-states.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/lineas1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/lineas3.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/lineas4.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/d3_lines01.html",
+		"/Users/francisco/Downloads/GPicSync-1.03/README.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/lib/sort.php",
+		"/Users/francisco/Google Drive/temp/projether/24-02-13.csv",
+		"/Users/francisco/Google Drive/temp/projether/aersX.csv",
+		"/Users/francisco/Desktop/blank text.emlx",
+		"/Users/francisco/Google Drive/temp/projether/aers20.csv",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/lineas2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pruebas/bockstoklines.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/pubmedsearch3save1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pruebasd3.html",
+		"/Users/francisco/Dropbox/Series de Tiempo/paquetesGarch.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/scraper01/pruebas/scrapjails.php",
+		"/Users/francisco/Google Drive/mining/Series tiempo II/camino.dot",
+		"/Applications/XAMPP/xamppfiles/htdocs/capFR/libcap/tablasfr.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/capFR/articuloverfr.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/capFR/articledetfr.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/capFR/articletaggedlistfr.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/capFR/articlelistfr.php",
+		"/Users/francisco/Google Drive/Dani/capFR/#1682918",
+		"/Users/francisco/Google Drive/Dani/capFR/estrategiabasica.txt",
+		"/Users/francisco/Google Drive/Dani/capFR/capCaSel",
+		"/Users/francisco/Google Drive/Dani/capFR/caphem_new_interesting.csv",
+		"/Users/francisco/Google Drive/Dani/capFR/hemmalig.txt",
+		"/Users/francisco/Google Drive/mining/AID/jails_desc"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"quali",
+			"html",
+			"diff",
+			"required",
+			"pmid",
+			"qualifier",
+			"descriptor",
+			"=\"descriptor\"",
+			"abstract",
+			"pmid",
+			"\\n",
+			",",
+			"        <pmid version=\"1\"",
+			"pmid version=\"1\"",
+			"directoryreader",
+			"reader",
+			"open",
+			"correa",
+			"nombres",
+			"xmlhttp",
+			"actualizar",
+			"➥",
+			"nombres",
+			"echo",
+			"width",
+			"linea",
+			"N",
+			"Ã©",
+			"Ã­",
+			"Ãº",
+			"Ã¡",
+			"Ã³",
+			"userAgent",
+			"rects1",
+			"wx",
+			"echo",
+			"tl.search1",
+			"year",
+			"\\\"",
+			"'",
+			"-",
+			"+",
+			"url",
+			"xhr1",
+			"replace",
+			"allImages",
+			"insert into",
+			"i++",
+			"i+",
+			"espacio",
+			"pb",
+			"$pb",
+			"insert into",
+			"print_r",
+			"<pre>",
+			"\"<pre",
+			"insert",
+			"$drug",
+			"$ae",
+			"$key",
+			"urllist",
+			"squed",
+			"yPosition",
+			"xPosition",
+			"id=",
+			"<br>",
+			"$_POST['espacio#'.$i]",
+			"$_POST['ea#'.$i]",
+			"$_POST['drug#'.$i]",
+			"espacio",
+			"$espacio",
+			"$_POST['ae']",
+			"$_POST['ae",
+			"$_POST['espacio']",
+			"\"",
+			"select",
+			"select pmid",
+			"nueva",
+			"sort",
+			"order",
+			"espacioacum",
+			"eventacum",
+			"drugacum",
+			"echo",
+			"espacio",
+			"estrategia",
+			"new",
+			">\n",
+			"php",
+			"form",
+			"rateFunction",
+			"rateCL",
+			"$urlstotales[$n]['pubs']",
+			"insert into",
+			"link",
+			"if (",
+			" ",
+			"year",
+			"die",
+			"counter",
+			"startRow",
+			"fit.ox_ts_1",
+			"ds",
+			"tablas",
+			"article",
+			"articulover",
+			"article",
+			"crearcombobox",
+			"$n",
+			"$result_",
+			"$cn",
+			"update",
+			"crear3",
+			"<form",
+			"href",
+			"ifas",
+			"\"NODE1\":F1",
+			"};",
+			"EM",
+			"node2",
+			"node3",
+			"node4",
+			"producto",
+			"“",
+			"”",
+			"“",
+			"”",
+			"    "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"id",
+			"qualifier_txt",
+			"descriptor_txt",
+			"=\"descriptor_txt\"",
+			"abstract_txt",
+			"id",
+			",",
+			"\\n",
+			"xmlhttp2",
+			"",
+			"é",
+			"í",
+			"ú",
+			"á",
+			"ó",
+			"data",
+			"radius",
+			"list",
+			"'",
+			"\\\"",
+			"",
+			"url1",
+			"xhr",
+			"idlist",
+			"$drugext",
+			"$aext",
+			"$contids",
+			"yPositionHits",
+			"xPositionHits",
+			"$_POST['ea#'.$i]",
+			"$_POST['espacio#'.$i]",
+			"'",
+			"acumespacio",
+			"acumevent",
+			"acumdrug",
+			"drug",
+			"ae",
+			"rateFunctionae",
+			"rateCLae",
+			"	",
+			"^t",
+			"modelo",
+			"meds",
+			"\"node0\":f1",
+			"Dossier",
+			"node3",
+			"node4",
+			"node5",
+			"infoProducto",
+			"\"",
+			"	",
+			"^t",
+			"=",
+			"    ",
+			"tab",
+			"^t",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "xmlPMIDs/curllink.txt",
+					"settings":
+					{
+						"buffer_size": 2464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Haskell/Haskell.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/XAMPP/xamppfiles/htdocs/pruebad3_01.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true
+}

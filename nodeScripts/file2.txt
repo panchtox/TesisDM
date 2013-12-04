@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st May 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130501.dtd">
+<PubmedArticleSet>
