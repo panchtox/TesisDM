@@ -24,24 +24,15 @@ var filehandle = fs.readFile("../xmlPMIDs/pmidsExample.xml", function(err, data)
 var texto='';
 
 	var req = http.request(options, function(res) {
-		var stream = fs.createWriteStream("file2.txt",{flags: 'a'});
-		res.setEncoding('utf8');
 		res.on('data', function (chunk) {
-			// console.log(chunk);
-			stream.on("open", function() {
-				texto+=chunk;
-				stream.end(texto,'utf8');
+			fs.appendFile('eureka.xml', chunk, function (err) {
+				if(err) throw err;
 			});
-			console.log(texto);
-
 		});
-		// console.log(texto);
 		
 	});
 	req.write("db=pubmed");
 	req.write("&retmode=xml");
 	req.write("&id="+x);
-	req.pipe(stream, {end: false});
-	// console.log("&id="+x);
 	req.end();
 });
