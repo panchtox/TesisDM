@@ -1,0 +1,5 @@
+t0=read.table('/Users/francisco/Google Drive/projether/paper/performance.csv',header=T,sep=',',quote='\"',fileEncoding='latin1')
+attach(t0)
+source("/Users/francisco/Downloads/util.R")
+binary_eval(log(ratefill),class1,0)
+library("OptimalCutpoints", lib.loc="/Library/Frameworks/R.framework/Versions/3.0/Resources/library")

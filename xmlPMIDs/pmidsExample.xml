@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD eSearchResult, 11 May 2002//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/eSearch_020511.dtd">
+<eSearchResult>
+<Count>1721424</Count><RetMax>1721424</RetMax><RetStart>0</RetStart>
+<IdList>
+	<Id>23539106</Id>
+	<Id>23436674</Id>
+	<Id>23436673</Id>
+	<Id>23436669</Id>
+	<Id>23436666</Id>
+	<Id>23436664</Id>
+	<Id>23436661</Id>
+	<Id>23436660</Id>
+	<Id>23436659</Id>
+	<Id>23187688</Id>
+	<Id>23249848</Id>
+	<Id>23063395</Id>
+	<Id>23063390</Id>
+	<Id>23536531</Id>
+	<Id>23536025</Id>
+	<Id>23535053</Id>
+	<Id>23535052</Id>
+	<Id>23532441</Id>
+	<Id>23529570</Id>
+	<Id>23529569</Id>
+	<Id>23529568</Id>
+	<Id>23529567</Id>
+	<Id>23526541</Id>
+	<Id>23526540</Id>
+	<Id>23526538</Id>
+	<Id>23526537</Id>
+	<Id>23526536</Id>
+	<Id>23526535</Id>
+	<Id>23526534</Id>
+	<Id>23526529</Id>
+	<Id>23526528</Id>
+	<Id>23526527</Id>
+</IdList>
+<TranslationSet><Translation>     <From>adverse effects</From>     <To>"adverse effects"[Subheading] OR ("adverse"[All Fields] AND "effects"[All Fields]) OR "adverse effects"[All Fields]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>"adverse effects"[Subheading]</Term>    <Field>Subheading</Field>    <Count>1659464</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"adverse"[All Fields]</Term>    <Field>All Fields</Field>    <Count>1489272</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"effects"[All Fields]</Term>    <Field>All Fields</Field>    <Count>4890593</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <OP>GROUP</OP>   <OP>OR</OP>   <TermSet>    <Term>"adverse effects"[All Fields]</Term>    <Field>All Fields</Field>    <Count>1362528</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>   <TermSet>    <Term>"0000/00"[CRDAT]</Term>    <Field>CRDAT</Field>    <Count>0</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"2013/03"[CRDAT]</Term>    <Field>CRDAT</Field>    <Count>0</Count>    <Explode>N</Explode>   </TermSet>   <OP>RANGE</OP>   <OP>GROUP</OP>   <OP>AND</OP>  </TranslationStack><QueryTranslation>("adverse effects"[Subheading] OR ("adverse"[All Fields] AND "effects"[All Fields]) OR "adverse effects"[All Fields]) AND ("0000/00"[CRDAT] : "2013/03"[CRDAT])</QueryTranslation>
+
+</eSearchResult>

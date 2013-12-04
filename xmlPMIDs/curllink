@@ -1,0 +1,55 @@
+
+OBJETIVO
+Descargar xml con la lista de todos los IDs correspondientes a 'adverse effects'
+
+METODOS
+Link cuenta
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&rettype=count&term=adverse+effects+AND+("0000/00"[crdt]+:+"2013/03"[crdt])
+
+Link cuenta escapado
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&rettype=count&term=adverse+effects+AND+(%220000/00%22[crdt]+:+%222013/03%22[crdt])
+
+Link lista IDs
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmax=1721424&term=adverse+effects+AND+("0000/00"[crdt]+:+"2013/03"[crdt])
+
+Link lista IDs escapado
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmax=1721424&term=adverse+effects+AND+%28%220000%2F00%22%5Bcrdt%5D+:+%222013%2F03%22%5Bcrdt%5D%29
+
+RESULTADO
+curl 'http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmax=1721424&term=adverse+effects+AND+%28%220000%2F00%22%5Bcrdt%5D+:+%222013%2F03%22%5Bcrdt%5D%29'>pmidsAE.xml
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 30.3M    0 30.3M    0     0   331k      0 --:--:--  0:01:33 --:--:--  231k
+
+BIBLIOGRAFIA
+http://en.wikipedia.org/wiki/Percent-encoding
+
+http://www.nlm.nih.gov/bsd/special_queries.html
+
+http://www.nlm.nih.gov/bsd/pubmed_subsets.html
+
+http://www.ncbi.nlm.nih.gov/books/NBK3827/
+
+http://en.wikipedia.org/wiki/PubMed
+
+##############################################################################################################################
+
+OBJETIVO
+Descargar xml con la lista de todos los IDs correspondientes a todos los publicados hasta fecha limite
+
+METODOS
+Link cuenta
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&rettype=count&term=all[sb]+AND+("0000/00"[crdt]+:+"2013/03"[crdt])
+
+Link cuenta escapado
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&rettype=count&term=all%5Bsb%5D+AND+%28%220000%2F00%22%5Bcrdt%5D+:+%222013%2F03%22%5Bcrdt%5D%29
+
+Link lista IDs
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmax=22616406&term=all[sb]+AND+("0000/00"[crdt]+:+"2013/03"[crdt])
+
+Link lista IDs escapado
+http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmax=22616406&term=adverse+effects+AND+%28%220000%2F00%22%5Bcrdt%5D+:+%222013%2F03%22%5Bcrdt%5D%29
+
+nota: el numero total hasta el 04/12/2013 x la maniana era: 23331427
+
+RESULTADO

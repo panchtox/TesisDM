@@ -1,0 +1,1873 @@
+"drug","alert","rate","ratefill","ratecat","class1"
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","Abnormal Heart Rhythms",NULL,0,0,0
+"5-alpha reductase inhibitors","Abnormal Heart Rhythms",NULL,0,0,0
+"Abacavir","Abnormal Heart Rhythms",0.100976120438,0.100976120438,0,0
+"aliskiren","Abnormal Heart Rhythms",1.19366161988,1.19366161988,1,0
+"Antipsychotics","Abnormal Heart Rhythms",1.48591830428,1.48591830428,1,1
+"asenapine","Abnormal Heart Rhythms",3.93191749817,3.93191749817,1,1
+"Azithromycin","Abnormal Heart Rhythms",1.22910176295,1.22910176295,1,1
+"benzocaine","Abnormal Heart Rhythms",0.714973897256,0.714973897256,0,0
+"bisphosphonates","Abnormal Heart Rhythms",0.521600822149,0.521600822149,0,0
+"boceprevir","Abnormal Heart Rhythms",NULL,0,0,0
+"brentuximab","Abnormal Heart Rhythms",NULL,0,0,0
+"citalopram","Abnormal Heart Rhythms",2.528652721,2.528652721,1,1
+"dabigatran","Abnormal Heart Rhythms",22.9602214003,22.9602214003,1,0
+"dalfampridine","Abnormal Heart Rhythms",2.6395318523,2.6395318523,1,0
+"dasatinib","Abnormal Heart Rhythms",0.308897662161,0.308897662161,0,1
+"dronedarone","Abnormal Heart Rhythms",41.7763216903,41.7763216903,1,0
+"Drospirenone","Abnormal Heart Rhythms",0.743498123148,0.743498123148,0,0
+"fluconazole","Abnormal Heart Rhythms",0.596438465451,0.596438465451,0,0
+"ipilimumab","Abnormal Heart Rhythms",NULL,0,0,0
+"lenalidomide","Abnormal Heart Rhythms",0.164047859048,0.164047859048,0,0
+"linezolid","Abnormal Heart Rhythms",0.350478974716,0.350478974716,0,0
+"Liquid Acetaminophen","Abnormal Heart Rhythms",NULL,0,0,0
+"liraglutide","Abnormal Heart Rhythms",NULL,0,0,0
+"ondansetron","Abnormal Heart Rhythms",0.976635372924,0.976635372924,0,1
+"peginesatide","Abnormal Heart Rhythms",NULL,0,0,0
+"pramipexole","Abnormal Heart Rhythms",0.158355206237,0.158355206237,0,0
+"Proton Pump Inhibitors","Abnormal Heart Rhythms",0.409575137383,0.409575137383,0,0
+"rosiglitazone","Abnormal Heart Rhythms",0.131629416711,0.131629416711,0,0
+"Selective Serotonin Reuptake Inhibitor","Abnormal Heart Rhythms",1.15569931637,1.15569931637,1,0
+"sodium oxybate","Abnormal Heart Rhythms",1.04923043428,1.04923043428,1,0
+"telaprevir","Abnormal Heart Rhythms",NULL,0,0,0
+"tolvaptan","Abnormal Heart Rhythms",0.68545334507,0.68545334507,0,0
+"topiramate","Abnormal Heart Rhythms",0.188485877726,0.188485877726,0,0
+"valproate","Abnormal Heart Rhythms",0.169404942461,0.169404942461,0,0
+"varenicline","Abnormal Heart Rhythms",0.379501768415,0.379501768415,0,0
+"zoledronic acid","Abnormal Heart Rhythms",1.17337879205,1.17337879205,1,0
+"ibuprofen","Abnormal Heart Rhythms",0.277090946203,0.277090946203,0,0
+"acetaminophen","Abnormal Heart Rhythms",0.235148072557,0.235148072557,0,0
+"aspirin","Abnormal Heart Rhythms",1.36376652536,1.36376652536,1,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","qt interval",2.92396804043,2.92396804043,1,0
+"5-alpha reductase inhibitors","qt interval",NULL,0,0,0
+"Abacavir","qt interval",NULL,0,0,0
+"aliskiren","qt interval",10.3028455285,10.3028455285,1,0
+"Antipsychotics","qt interval",7.67083992823,7.67083992823,1,1
+"asenapine","qt interval",63.5120082389,63.5120082389,1,1
+"Azithromycin","qt interval",16.7236371772,16.7236371772,1,1
+"benzocaine","qt interval",NULL,0,0,0
+"bisphosphonates","qt interval",0.366066359533,0.366066359533,0,0
+"boceprevir","qt interval",NULL,0,0,0
+"brentuximab","qt interval",NULL,0,0,0
+"citalopram","qt interval",17.4239146286,17.4239146286,1,1
+"dabigatran","qt interval",1.97631588911,1.97631588911,1,0
+"dalfampridine","qt interval",6.49770627339,6.49770627339,1,0
+"dasatinib","qt interval",6.48289874111,6.48289874111,1,1
+"dronedarone","qt interval",50.2095614944,50.2095614944,1,0
+"Drospirenone","qt interval",NULL,0,0,0
+"fluconazole","qt interval",7.26690961005,7.26690961005,1,0
+"ipilimumab","qt interval",4.73356490162,4.73356490162,1,0
+"lenalidomide","qt interval",4.49734430082,4.49734430082,1,0
+"linezolid","qt interval",4.17646946036,4.17646946036,1,0
+"Liquid Acetaminophen","qt interval",NULL,0,0,0
+"liraglutide","qt interval",16.9555071598,16.9555071598,1,0
+"ondansetron","qt interval",6.10262089332,6.10262089332,1,1
+"peginesatide","qt interval",NULL,0,0,0
+"pramipexole","qt interval",NULL,0,0,0
+"Proton Pump Inhibitors","qt interval",2.3543710394,2.3543710394,1,0
+"rosiglitazone","qt interval",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","qt interval",4.84833425523,4.84833425523,1,0
+"sodium oxybate","qt interval",NULL,0,0,0
+"telaprevir","qt interval",NULL,0,0,0
+"tolvaptan","qt interval",NULL,0,0,0
+"topiramate","qt interval",5.48509539154,5.48509539154,1,0
+"valproate","qt interval",0.780208613172,0.780208613172,0,0
+"varenicline","qt interval",NULL,0,0,0
+"zoledronic acid","qt interval",10.0398256688,10.0398256688,1,0
+"ibuprofen","qt interval",NULL,0,0,0
+"acetaminophen","qt interval",0.304933309223,0.304933309223,0,0
+"aspirin","qt interval",0.0857840657365,0.0857840657365,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","torsades de pointes",NULL,0,0,0
+"5-alpha reductase inhibitors","torsades de pointes",NULL,0,0,0
+"Abacavir","torsades de pointes",1.40940935381,1.40940935381,1,0
+"aliskiren","torsades de pointes",11.3733595906,11.3733595906,1,0
+"Antipsychotics","torsades de pointes",7.02102051257,7.02102051257,1,1
+"asenapine","torsades de pointes",NULL,0,0,1
+"Azithromycin","torsades de pointes",13.4472059844,13.4472059844,1,1
+"benzocaine","torsades de pointes",NULL,0,0,0
+"bisphosphonates","torsades de pointes",NULL,0,0,0
+"boceprevir","torsades de pointes",NULL,0,0,0
+"brentuximab","torsades de pointes",NULL,0,0,0
+"citalopram","torsades de pointes",18.5038693145,18.5038693145,1,1
+"dabigatran","torsades de pointes",NULL,0,0,0
+"dalfampridine","torsades de pointes",15.7972807447,15.7972807447,1,0
+"dasatinib","torsades de pointes",NULL,0,0,1
+"dronedarone","torsades de pointes",79.6420178799,79.6420178799,1,0
+"Drospirenone","torsades de pointes",NULL,0,0,0
+"fluconazole","torsades de pointes",10.9717953745,10.9717953745,1,0
+"ipilimumab","torsades de pointes",NULL,0,0,0
+"lenalidomide","torsades de pointes",NULL,0,0,0
+"linezolid","torsades de pointes",1.90548582725,1.90548582725,1,0
+"Liquid Acetaminophen","torsades de pointes",NULL,0,0,0
+"liraglutide","torsades de pointes",NULL,0,0,0
+"ondansetron","torsades de pointes",4.84215071966,4.84215071966,1,1
+"peginesatide","torsades de pointes",NULL,0,0,0
+"pramipexole","torsades de pointes",NULL,0,0,0
+"Proton Pump Inhibitors","torsades de pointes",1.18602442229,1.18602442229,1,0
+"rosiglitazone","torsades de pointes",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","torsades de pointes",3.87559383382,3.87559383382,1,0
+"sodium oxybate","torsades de pointes",NULL,0,0,0
+"telaprevir","torsades de pointes",NULL,0,0,0
+"tolvaptan","torsades de pointes",NULL,0,0,0
+"topiramate","torsades de pointes",NULL,0,0,0
+"valproate","torsades de pointes",0.185332235933,0.185332235933,0,0
+"varenicline","torsades de pointes",NULL,0,0,0
+"zoledronic acid","torsades de pointes",NULL,0,0,0
+"ibuprofen","torsades de pointes",0.426675989895,0.426675989895,0,0
+"acetaminophen","torsades de pointes",0.609359523142,0.609359523142,0,0
+"aspirin","torsades de pointes",0.347159120326,0.347159120326,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","bleeding",NULL,0,0,0
+"5-alpha reductase inhibitors","bleeding",0.550650484809,0.550650484809,0,0
+"Abacavir","bleeding",0.159125549364,0.159125549364,0,0
+"aliskiren","bleeding",0.100559588898,0.100559588898,0,0
+"Antipsychotics","bleeding",0.125529141947,0.125529141947,0,0
+"asenapine","bleeding",NULL,0,0,0
+"Azithromycin","bleeding",0.600456664739,0.600456664739,0,0
+"benzocaine","bleeding",0.156213245839,0.156213245839,0,0
+"bisphosphonates","bleeding",0.182566345026,0.182566345026,0,0
+"boceprevir","bleeding",0.215484833353,0.215484833353,0,0
+"brentuximab","bleeding",5.70048064048,5.70048064048,1,0
+"citalopram","bleeding",0.345170213608,0.345170213608,0,1
+"dabigatran","bleeding",14.5990974596,14.5990974596,1,1
+"dalfampridine","bleeding",0.0801579196811,0.0801579196811,0,0
+"dasatinib","bleeding",1.92098335488,1.92098335488,1,1
+"dronedarone","bleeding",0.599137746633,0.599137746633,0,0
+"Drospirenone","bleeding",4.33282120762,4.33282120762,1,1
+"fluconazole","bleeding",0.286659694999,0.286659694999,0,0
+"ipilimumab","bleeding",1.55864918554,1.55864918554,1,0
+"lenalidomide","bleeding",0.798580745403,0.798580745403,0,0
+"linezolid","bleeding",0.437226173007,0.437226173007,0,0
+"Liquid Acetaminophen","bleeding",NULL,0,0,0
+"liraglutide","bleeding",NULL,0,0,0
+"ondansetron","bleeding",0.178390860725,0.178390860725,0,0
+"peginesatide","bleeding",NULL,0,0,0
+"pramipexole","bleeding",0.20662654971,0.20662654971,0,0
+"Proton Pump Inhibitors","bleeding",NULL,0,0,0
+"rosiglitazone","bleeding",0.214613994648,0.214613994648,0,0
+"Selective Serotonin Reuptake Inhibitor","bleeding",0.36327747792,0.36327747792,0,1
+"sodium oxybate","bleeding",0.110533840467,0.110533840467,0,0
+"telaprevir","bleeding",0.159337376775,0.159337376775,0,0
+"tolvaptan","bleeding",0.955563388819,0.955563388819,0,1
+"topiramate","bleeding",0.20368408854,0.20368408854,0,0
+"valproate","bleeding",0.470219574798,0.470219574798,0,0
+"varenicline","bleeding",0.0739426616114,0.0739426616114,0,0
+"zoledronic acid","bleeding",0.196948621182,0.196948621182,0,0
+"ibuprofen","bleeding",2.29516021877,2.29516021877,1,1
+"acetaminophen","bleeding",0.829591885113,0.829591885113,0,0
+"aspirin","bleeding",5.65814665296,5.65814665296,1,1
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","cancer",0.234338309474,0.234338309474,0,1
+"5-alpha reductase inhibitors","cancer",1.51246508431,1.51246508431,1,1
+"Abacavir","cancer",0.086914731895,0.086914731895,0,0
+"aliskiren","cancer",0.141748521318,0.141748521318,0,0
+"Antipsychotics","cancer",0.245136653457,0.245136653457,0,0
+"asenapine","cancer",NULL,0,0,0
+"Azithromycin","cancer",0.141662795748,0.141662795748,0,0
+"benzocaine","cancer",0.325369096314,0.325369096314,0,0
+"bisphosphonates","cancer",1.86529944799,1.86529944799,1,1
+"boceprevir","cancer",0.164380967052,0.164380967052,0,0
+"brentuximab","cancer",6.05814020461,6.05814020461,1,0
+"citalopram","cancer",0.132137237883,0.132137237883,0,0
+"dabigatran","cancer",0.123023124811,0.123023124811,0,0
+"dalfampridine","cancer",0.242736286561,0.242736286561,0,0
+"dasatinib","cancer",5.50271110075,5.50271110075,1,0
+"dronedarone","cancer",0.107707776599,0.107707776599,0,0
+"Drospirenone","cancer",0.594482788125,0.594482788125,0,0
+"fluconazole","cancer",1.08263506874,1.08263506874,1,0
+"ipilimumab","cancer",5.80684751393,5.80684751393,1,0
+"lenalidomide","cancer",5.18292356106,5.18292356106,1,1
+"linezolid","cancer",0.371141538087,0.371141538087,0,0
+"Liquid Acetaminophen","cancer",0.297407242401,0.297407242401,0,0
+"liraglutide","cancer",0.416778565527,0.416778565527,0,1
+"ondansetron","cancer",2.489266714,2.489266714,1,0
+"peginesatide","cancer",1.21161253961,1.21161253961,1,0
+"pramipexole","cancer",0.0895840146393,0.0895840146393,0,0
+"Proton Pump Inhibitors","cancer",0.565740719497,0.565740719497,0,0
+"rosiglitazone","cancer",0.398491000126,0.398491000126,0,0
+"Selective Serotonin Reuptake Inhibitor","cancer",0.131260658077,0.131260658077,0,0
+"sodium oxybate","cancer",0.0545463607576,0.0545463607576,0,0
+"telaprevir","cancer",0.0950327465768,0.0950327465768,0,0
+"tolvaptan","cancer",0.145362061888,0.145362061888,0,0
+"topiramate","cancer",0.102459566042,0.102459566042,0,0
+"valproate","cancer",0.276308481127,0.276308481127,0,0
+"varenicline","cancer",0.473292923999,0.473292923999,0,0
+"zoledronic acid","cancer",3.82192277619,3.82192277619,1,1
+"ibuprofen","cancer",0.208781761502,0.208781761502,0,0
+"acetaminophen","cancer",0.293148503294,0.293148503294,0,0
+"aspirin","cancer",0.353614804866,0.353614804866,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","Esophageal Cancer",NULL,0,0,0
+"5-alpha reductase inhibitors","Esophageal Cancer",NULL,0,0,0
+"Abacavir","Esophageal Cancer",NULL,0,0,0
+"aliskiren","Esophageal Cancer",NULL,0,0,0
+"Antipsychotics","Esophageal Cancer",0.0626752189896,0.0626752189896,0,0
+"asenapine","Esophageal Cancer",NULL,0,0,0
+"Azithromycin","Esophageal Cancer",NULL,0,0,0
+"benzocaine","Esophageal Cancer",3.2605588697,3.2605588697,1,0
+"bisphosphonates","Esophageal Cancer",2.62115487444,2.62115487444,1,1
+"boceprevir","Esophageal Cancer",NULL,0,0,0
+"brentuximab","Esophageal Cancer",NULL,0,0,0
+"citalopram","Esophageal Cancer",NULL,0,0,0
+"dabigatran","Esophageal Cancer",NULL,0,0,0
+"dalfampridine","Esophageal Cancer",NULL,0,0,0
+"dasatinib","Esophageal Cancer",NULL,0,0,0
+"dronedarone","Esophageal Cancer",NULL,0,0,0
+"Drospirenone","Esophageal Cancer",NULL,0,0,0
+"fluconazole","Esophageal Cancer",1.96651310798,1.96651310798,1,0
+"ipilimumab","Esophageal Cancer",NULL,0,0,0
+"lenalidomide","Esophageal Cancer",NULL,0,0,0
+"linezolid","Esophageal Cancer",NULL,0,0,0
+"Liquid Acetaminophen","Esophageal Cancer",2.93668545852,2.93668545852,1,0
+"liraglutide","Esophageal Cancer",NULL,0,0,0
+"ondansetron","Esophageal Cancer",0.472977535385,0.472977535385,0,0
+"peginesatide","Esophageal Cancer",NULL,0,0,0
+"pramipexole","Esophageal Cancer",NULL,0,0,0
+"Proton Pump Inhibitors","Esophageal Cancer",4.27420419209,4.27420419209,1,0
+"rosiglitazone","Esophageal Cancer",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","Esophageal Cancer",0.0265280157732,0.0265280157732,0,0
+"sodium oxybate","Esophageal Cancer",NULL,0,0,0
+"telaprevir","Esophageal Cancer",NULL,0,0,0
+"tolvaptan","Esophageal Cancer",NULL,0,0,0
+"topiramate","Esophageal Cancer",NULL,0,0,0
+"valproate","Esophageal Cancer",NULL,0,0,0
+"varenicline","Esophageal Cancer",1.79422358383,1.79422358383,1,0
+"zoledronic acid","Esophageal Cancer",1.55763076041,1.55763076041,1,1
+"ibuprofen","Esophageal Cancer",NULL,0,0,0
+"acetaminophen","Esophageal Cancer",0.0821547852311,0.0821547852311,0,0
+"aspirin","Esophageal Cancer",0.709898289101,0.709898289101,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","new malignancy",0.482773099282,0.482773099282,0,1
+"5-alpha reductase inhibitors","new malignancy",2.81262443873,2.81262443873,1,1
+"Abacavir","new malignancy",0.259172163468,0.259172163468,0,0
+"aliskiren","new malignancy",3.06485545324,3.06485545324,1,0
+"Antipsychotics","new malignancy",0.202947480903,0.202947480903,0,0
+"asenapine","new malignancy",NULL,0,0,0
+"Azithromycin","new malignancy",0.0841697158246,0.0841697158246,0,0
+"benzocaine","new malignancy",0.391466554539,0.391466554539,0,0
+"bisphosphonates","new malignancy",3.2658973572,3.2658973572,1,1
+"boceprevir","new malignancy",NULL,0,0,0
+"brentuximab","new malignancy",18.7532228991,18.7532228991,1,0
+"citalopram","new malignancy",0.33932006116,0.33932006116,0,0
+"dabigatran","new malignancy",0.425568836359,0.425568836359,0,0
+"dalfampridine","new malignancy",2.04601531348,2.04601531348,1,0
+"dasatinib","new malignancy",8.70071967148,8.70071967148,1,0
+"dronedarone","new malignancy",NULL,0,0,0
+"Drospirenone","new malignancy",1.85941137597,1.85941137597,1,0
+"fluconazole","new malignancy",1.30389844275,1.30389844275,1,0
+"ipilimumab","new malignancy",18.8424903364,18.8424903364,1,0
+"lenalidomide","new malignancy",13.1509331174,13.1509331174,1,1
+"linezolid","new malignancy",0.243182192205,0.243182192205,0,0
+"Liquid Acetaminophen","new malignancy",0.667231155374,0.667231155374,0,0
+"liraglutide","new malignancy",1.84113895874,1.84113895874,1,1
+"ondansetron","new malignancy",3.30213883863,3.30213883863,1,0
+"peginesatide","new malignancy",NULL,0,0,0
+"pramipexole","new malignancy",0.475898667211,0.475898667211,0,0
+"Proton Pump Inhibitors","new malignancy",0.678167696664,0.678167696664,0,0
+"rosiglitazone","new malignancy",0.579891141563,0.579891141563,0,0
+"Selective Serotonin Reuptake Inhibitor","new malignancy",0.113940651646,0.113940651646,0,0
+"sodium oxybate","new malignancy",NULL,0,0,0
+"telaprevir","new malignancy",NULL,0,0,0
+"tolvaptan","new malignancy",0.978080776987,0.978080776987,0,0
+"topiramate","new malignancy",0.319248294482,0.319248294482,0,0
+"valproate","new malignancy",0.373181914156,0.373181914156,0,0
+"varenicline","new malignancy",2.62284919871,2.62284919871,1,0
+"zoledronic acid","new malignancy",5.5964043602,5.5964043602,1,1
+"ibuprofen","new malignancy",0.253114882626,0.253114882626,0,0
+"acetaminophen","new malignancy",0.31882896063,0.31882896063,0,0
+"aspirin","new malignancy",0.418288453191,0.418288453191,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","prostate cancer",NULL,0,0,0
+"5-alpha reductase inhibitors","prostate cancer",33.0366282979,33.0366282979,1,1
+"Abacavir","prostate cancer",NULL,0,0,0
+"aliskiren","prostate cancer",NULL,0,0,0
+"Antipsychotics","prostate cancer",0.0501125682508,0.0501125682508,0,0
+"asenapine","prostate cancer",NULL,0,0,0
+"Azithromycin","prostate cancer",NULL,0,0,0
+"benzocaine","prostate cancer",NULL,0,0,0
+"bisphosphonates","prostate cancer",10.3695284309,10.3695284309,1,0
+"boceprevir","prostate cancer",NULL,0,0,0
+"brentuximab","prostate cancer",NULL,0,0,0
+"citalopram","prostate cancer",0.147360517146,0.147360517146,0,0
+"dabigatran","prostate cancer",1.13149547005,1.13149547005,1,0
+"dalfampridine","prostate cancer",NULL,0,0,0
+"dasatinib","prostate cancer",2.61221236457,2.61221236457,1,0
+"dronedarone","prostate cancer",1.3936857351,1.3936857351,1,0
+"Drospirenone","prostate cancer",NULL,0,0,0
+"fluconazole","prostate cancer",0.27450276209,0.27450276209,0,0
+"ipilimumab","prostate cancer",10.9931242247,10.9931242247,1,0
+"lenalidomide","prostate cancer",2.46417979074,2.46417979074,1,0
+"linezolid","prostate cancer",NULL,0,0,0
+"Liquid Acetaminophen","prostate cancer",NULL,0,0,0
+"liraglutide","prostate cancer",NULL,0,0,0
+"ondansetron","prostate cancer",NULL,0,0,0
+"peginesatide","prostate cancer",NULL,0,0,0
+"pramipexole","prostate cancer",NULL,0,0,0
+"Proton Pump Inhibitors","prostate cancer",0.278586598106,0.278586598106,0,0
+"rosiglitazone","prostate cancer",0.796830597047,0.796830597047,0,0
+"Selective Serotonin Reuptake Inhibitor","prostate cancer",0.220966877267,0.220966877267,0,0
+"sodium oxybate","prostate cancer",NULL,0,0,0
+"telaprevir","prostate cancer",NULL,0,0,0
+"tolvaptan","prostate cancer",NULL,0,0,0
+"topiramate","prostate cancer",NULL,0,0,0
+"valproate","prostate cancer",NULL,0,0,0
+"varenicline","prostate cancer",NULL,0,0,0
+"zoledronic acid","prostate cancer",26.5117555465,26.5117555465,1,0
+"ibuprofen","prostate cancer",0.530707496243,0.530707496243,0,0
+"acetaminophen","prostate cancer",0.176709095527,0.176709095527,0,0
+"aspirin","prostate cancer",0.420404756351,0.420404756351,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","thyroid tumor",5.31064061254,5.31064061254,1,1
+"5-alpha reductase inhibitors","thyroid tumor",NULL,0,0,0
+"Abacavir","thyroid tumor",NULL,0,0,0
+"aliskiren","thyroid tumor",NULL,0,0,0
+"Antipsychotics","thyroid tumor",0.256174655707,0.256174655707,0,0
+"asenapine","thyroid tumor",NULL,0,0,0
+"Azithromycin","thyroid tumor",NULL,0,0,0
+"benzocaine","thyroid tumor",NULL,0,0,0
+"bisphosphonates","thyroid tumor",0.763929485183,0.763929485183,0,0
+"boceprevir","thyroid tumor",NULL,0,0,0
+"brentuximab","thyroid tumor",NULL,0,0,0
+"citalopram","thyroid tumor",NULL,0,0,0
+"dabigatran","thyroid tumor",0.968845684122,0.968845684122,0,0
+"dalfampridine","thyroid tumor",NULL,0,0,0
+"dasatinib","thyroid tumor",NULL,0,0,0
+"dronedarone","thyroid tumor",NULL,0,0,0
+"Drospirenone","thyroid tumor",NULL,0,0,0
+"fluconazole","thyroid tumor",NULL,0,0,0
+"ipilimumab","thyroid tumor",11.3856142253,11.3856142253,1,0
+"lenalidomide","thyroid tumor",3.67602815775,3.67602815775,1,0
+"linezolid","thyroid tumor",NULL,0,0,0
+"Liquid Acetaminophen","thyroid tumor",NULL,0,0,0
+"liraglutide","thyroid tumor",16.1268929091,16.1268929091,1,1
+"ondansetron","thyroid tumor",0.280848806661,0.280848806661,0,0
+"peginesatide","thyroid tumor",NULL,0,0,0
+"pramipexole","thyroid tumor",NULL,0,0,0
+"Proton Pump Inhibitors","thyroid tumor",0.418192450502,0.418192450502,0,0
+"rosiglitazone","thyroid tumor",0.526616207117,0.526616207117,0,0
+"Selective Serotonin Reuptake Inhibitor","thyroid tumor",0.0434999594046,0.0434999594046,0,0
+"sodium oxybate","thyroid tumor",NULL,0,0,0
+"telaprevir","thyroid tumor",NULL,0,0,0
+"tolvaptan","thyroid tumor",NULL,0,0,0
+"topiramate","thyroid tumor",NULL,0,0,0
+"valproate","thyroid tumor",NULL,0,0,0
+"varenicline","thyroid tumor",NULL,0,0,0
+"zoledronic acid","thyroid tumor",0.986644312017,0.986644312017,0,0
+"ibuprofen","thyroid tumor",NULL,0,0,0
+"acetaminophen","thyroid tumor",NULL,0,0,0
+"aspirin","thyroid tumor",0.0647767855583,0.0647767855583,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","Cardiovascular Adverse Events",7.9532015891,7.9532015891,1,0
+"5-alpha reductase inhibitors","Cardiovascular Adverse Events",0.857327377922,0.857327377922,0,0
+"Abacavir","Cardiovascular Adverse Events",3.82398325408,3.82398325408,1,1
+"aliskiren","Cardiovascular Adverse Events",16.8366021945,16.8366021945,1,0
+"Antipsychotics","Cardiovascular Adverse Events",0.481251823015,0.481251823015,0,1
+"asenapine","Cardiovascular Adverse Events",3.1065240441,3.1065240441,1,0
+"Azithromycin","Cardiovascular Adverse Events",0.594135505589,0.594135505589,0,0
+"benzocaine","Cardiovascular Adverse Events",NULL,0,0,0
+"bisphosphonates","Cardiovascular Adverse Events",0.668727984177,0.668727984177,0,0
+"boceprevir","Cardiovascular Adverse Events",4.25439120155,4.25439120155,1,0
+"brentuximab","Cardiovascular Adverse Events",NULL,0,0,0
+"citalopram","Cardiovascular Adverse Events",0.345356818025,0.345356818025,0,0
+"dabigatran","Cardiovascular Adverse Events",4.61490212864,4.61490212864,1,0
+"dalfampridine","Cardiovascular Adverse Events",9.9703611457,9.9703611457,1,0
+"dasatinib","Cardiovascular Adverse Events",1.08510945885,1.08510945885,1,1
+"dronedarone","Cardiovascular Adverse Events",25.3856792015,25.3856792015,1,1
+"Drospirenone","Cardiovascular Adverse Events",6.06256921373,6.06256921373,1,0
+"fluconazole","Cardiovascular Adverse Events",1.58633010376,1.58633010376,1,0
+"ipilimumab","Cardiovascular Adverse Events",NULL,0,0,0
+"lenalidomide","Cardiovascular Adverse Events",0.803245309195,0.803245309195,0,0
+"linezolid","Cardiovascular Adverse Events",NULL,0,0,0
+"Liquid Acetaminophen","Cardiovascular Adverse Events",NULL,0,0,0
+"liraglutide","Cardiovascular Adverse Events",10.0032360662,10.0032360662,1,0
+"ondansetron","Cardiovascular Adverse Events",0.678155085362,0.678155085362,0,0
+"peginesatide","Cardiovascular Adverse Events",42.2948173108,42.2948173108,1,1
+"pramipexole","Cardiovascular Adverse Events",1.11812089994,1.11812089994,1,0
+"Proton Pump Inhibitors","Cardiovascular Adverse Events",8.48705766307,8.48705766307,1,0
+"rosiglitazone","Cardiovascular Adverse Events",13.2601729206,13.2601729206,1,1
+"Selective Serotonin Reuptake Inhibitor","Cardiovascular Adverse Events",0.76928231215,0.76928231215,0,0
+"sodium oxybate","Cardiovascular Adverse Events",1.20002722627,1.20002722627,1,0
+"telaprevir","Cardiovascular Adverse Events",2.4595699134,2.4595699134,1,0
+"tolvaptan","Cardiovascular Adverse Events",7.95632409131,7.95632409131,1,0
+"topiramate","Cardiovascular Adverse Events",0.599944838412,0.599944838412,0,0
+"valproate","Cardiovascular Adverse Events",0.26505595934,0.26505595934,0,0
+"varenicline","Cardiovascular Adverse Events",5.64864586009,5.64864586009,1,1
+"zoledronic acid","Cardiovascular Adverse Events",0.976490049118,0.976490049118,0,0
+"ibuprofen","Cardiovascular Adverse Events",3.64013790532,3.64013790532,1,1
+"acetaminophen","Cardiovascular Adverse Events",0.637236029142,0.637236029142,0,0
+"aspirin","Cardiovascular Adverse Events",9.10001139998,9.10001139998,1,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","heart attack",1.42193356661,1.42193356661,1,0
+"5-alpha reductase inhibitors","heart attack",0.48187302723,0.48187302723,0,0
+"Abacavir","heart attack",4.00899385869,4.00899385869,1,1
+"aliskiren","heart attack",3.53221321485,3.53221321485,1,0
+"Antipsychotics","heart attack",0.209203738296,0.209203738296,0,1
+"asenapine","heart attack",NULL,0,0,0
+"Azithromycin","heart attack",0.494093607396,0.494093607396,0,0
+"benzocaine","heart attack",0.200533892403,0.200533892403,0,0
+"bisphosphonates","heart attack",0.247097323105,0.247097323105,0,0
+"boceprevir","heart attack",NULL,0,0,0
+"brentuximab","heart attack",NULL,0,0,0
+"citalopram","heart attack",0.548282625545,0.548282625545,0,0
+"dabigatran","heart attack",4.55536632155,4.55536632155,1,0
+"dalfampridine","heart attack",0.443999770783,0.443999770783,0,0
+"dasatinib","heart attack",NULL,0,0,1
+"dronedarone","heart attack",3.46203679336,3.46203679336,1,1
+"Drospirenone","heart attack",2.79428718828,2.79428718828,1,0
+"fluconazole","heart attack",0.140624823665,0.140624823665,0,0
+"ipilimumab","heart attack",NULL,0,0,0
+"lenalidomide","heart attack",0.239080556021,0.239080556021,0,0
+"linezolid","heart attack",NULL,0,0,0
+"Liquid Acetaminophen","heart attack",NULL,0,0,0
+"liraglutide","heart attack",1.25515632341,1.25515632341,1,0
+"ondansetron","heart attack",0.344004087486,0.344004087486,0,0
+"peginesatide","heart attack",9.30656352711,9.30656352711,1,1
+"pramipexole","heart attack",NULL,0,0,0
+"Proton Pump Inhibitors","heart attack",2.24336233639,2.24336233639,1,0
+"rosiglitazone","heart attack",9.05149364931,9.05149364931,1,1
+"Selective Serotonin Reuptake Inhibitor","heart attack",0.430641965932,0.430641965932,0,0
+"sodium oxybate","heart attack",0.309696999178,0.309696999178,0,0
+"telaprevir","heart attack",NULL,0,0,0
+"tolvaptan","heart attack",37.6113378528,37.6113378528,1,0
+"topiramate","heart attack",NULL,0,0,0
+"valproate","heart attack",0.0685722546424,0.0685722546424,0,0
+"varenicline","heart attack",1.6874957469,1.6874957469,1,1
+"zoledronic acid","heart attack",0.355322252819,0.355322252819,0,0
+"ibuprofen","heart attack",1.96773627924,1.96773627924,1,1
+"acetaminophen","heart attack",0.292362498304,0.292362498304,0,0
+"aspirin","heart attack",7.60723933939,7.60723933939,1,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","heart failure",1.14068830196,1.14068830196,1,0
+"5-alpha reductase inhibitors","heart failure",0.336725549783,0.336725549783,0,0
+"Abacavir","heart failure",0.347546831384,0.347546831384,0,0
+"aliskiren","heart failure",9.47716377376,9.47716377376,1,0
+"Antipsychotics","heart failure",0.202285676535,0.202285676535,0,0
+"asenapine","heart failure",NULL,0,0,0
+"Azithromycin","heart failure",0.593410590374,0.593410590374,0,0
+"benzocaine","heart failure",0.276058645079,0.276058645079,0,0
+"bisphosphonates","heart failure",0.3595268997,0.3595268997,0,0
+"boceprevir","heart failure",0.655103486666,0.655103486666,0,0
+"brentuximab","heart failure",NULL,0,0,0
+"citalopram","heart failure",0.682087154309,0.682087154309,0,0
+"dabigatran","heart failure",2.29286220333,2.29286220333,1,0
+"dalfampridine","heart failure",NULL,0,0,0
+"dasatinib","heart failure",1.80016266569,1.80016266569,1,1
+"dronedarone","heart failure",23.3782028575,23.3782028575,1,1
+"Drospirenone","heart failure",1.91793421455,1.91793421455,1,0
+"fluconazole","heart failure",0.774387787041,0.774387787041,0,0
+"ipilimumab","heart failure",NULL,0,0,0
+"lenalidomide","heart failure",0.822328426963,0.822328426963,0,0
+"linezolid","heart failure",0.450717997583,0.450717997583,0,0
+"Liquid Acetaminophen","heart failure",NULL,0,0,0
+"liraglutide","heart failure",1.30031603477,1.30031603477,1,0
+"ondansetron","heart failure",0.225971964849,0.225971964849,0,0
+"peginesatide","heart failure",9.81082263455,9.81082263455,1,0
+"pramipexole","heart failure",1.15485534984,1.15485534984,1,1
+"Proton Pump Inhibitors","heart failure",0.649196064737,0.649196064737,0,0
+"rosiglitazone","heart failure",8.68230487661,8.68230487661,1,0
+"Selective Serotonin Reuptake Inhibitor","heart failure",0.283575832552,0.283575832552,0,0
+"sodium oxybate","heart failure",0.660247280605,0.660247280605,0,0
+"telaprevir","heart failure",0.484407507746,0.484407507746,0,0
+"tolvaptan","heart failure",33.4800832617,33.4800832617,1,0
+"topiramate","heart failure",0.146790546268,0.146790546268,0,0
+"valproate","heart failure",0.165583491206,0.165583491206,0,0
+"varenicline","heart failure",0.468582354873,0.468582354873,0,0
+"zoledronic acid","heart failure",0.41409151387,0.41409151387,0,0
+"ibuprofen","heart failure",0.926535051851,0.926535051851,0,0
+"acetaminophen","heart failure",0.395287386293,0.395287386293,0,0
+"aspirin","heart failure",1.57427550071,1.57427550071,1,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","myocardial infarction",1.46171196357,1.46171196357,1,0
+"5-alpha reductase inhibitors","myocardial infarction",0.24790568804,0.24790568804,0,0
+"Abacavir","myocardial infarction",4.0229624784,4.0229624784,1,1
+"aliskiren","myocardial infarction",3.01887127996,3.01887127996,1,0
+"Antipsychotics","myocardial infarction",0.211011845725,0.211011845725,0,1
+"asenapine","myocardial infarction",NULL,0,0,0
+"Azithromycin","myocardial infarction",0.508354598883,0.508354598883,0,0
+"benzocaine","myocardial infarction",0.20641608159,0.20641608159,0,0
+"bisphosphonates","myocardial infarction",0.254044369939,0.254044369939,0,0
+"boceprevir","myocardial infarction",NULL,0,0,0
+"brentuximab","myocardial infarction",NULL,0,0,0
+"citalopram","myocardial infarction",0.559092268569,0.559092268569,0,0
+"dabigatran","myocardial infarction",3.86647744702,3.86647744702,1,0
+"dalfampridine","myocardial infarction",0.456143665951,0.456143665951,0,0
+"dasatinib","myocardial infarction",NULL,0,0,1
+"dronedarone","myocardial infarction",3.1068383901,3.1068383901,1,1
+"Drospirenone","myocardial infarction",2.87245699002,2.87245699002,1,0
+"fluconazole","myocardial infarction",0.144703532699,0.144703532699,0,0
+"ipilimumab","myocardial infarction",NULL,0,0,0
+"lenalidomide","myocardial infarction",0.245947127288,0.245947127288,0,0
+"linezolid","myocardial infarction",NULL,0,0,0
+"Liquid Acetaminophen","myocardial infarction",NULL,0,0,0
+"liraglutide","myocardial infarction",1.28999037938,1.28999037938,1,0
+"ondansetron","myocardial infarction",0.35258900409,0.35258900409,0,0
+"peginesatide","myocardial infarction",9.57011419695,9.57011419695,1,1
+"pramipexole","myocardial infarction",NULL,0,0,0
+"Proton Pump Inhibitors","myocardial infarction",2.30405684289,2.30405684289,1,0
+"rosiglitazone","myocardial infarction",9.22333970681,9.22333970681,1,1
+"Selective Serotonin Reuptake Inhibitor","myocardial infarction",0.421988578668,0.421988578668,0,0
+"sodium oxybate","myocardial infarction",0.318624605187,0.318624605187,0,0
+"telaprevir","myocardial infarction",NULL,0,0,0
+"tolvaptan","myocardial infarction",38.6706614509,38.6706614509,1,0
+"topiramate","myocardial infarction",NULL,0,0,0
+"valproate","myocardial infarction",0.0705218323241,0.0705218323241,0,0
+"varenicline","myocardial infarction",1.73278174532,1.73278174532,1,1
+"zoledronic acid","myocardial infarction",0.365424419322,0.365424419322,0,0
+"ibuprofen","myocardial infarction",1.90330883803,1.90330883803,1,1
+"acetaminophen","myocardial infarction",0.278474615248,0.278474615248,0,0
+"aspirin","myocardial infarction",7.61456299453,7.61456299453,1,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","stroke",0.81755457115,0.81755457115,0,0
+"5-alpha reductase inhibitors","stroke",0.555796670381,0.555796670381,0,0
+"Abacavir","stroke",0.408079858661,0.408079858661,0,1
+"aliskiren","stroke",2.11013843111,2.11013843111,1,0
+"Antipsychotics","stroke",0.405097202309,0.405097202309,0,1
+"asenapine","stroke",4.48173512092,4.48173512092,1,0
+"Azithromycin","stroke",0.553166538958,0.553166538958,0,0
+"benzocaine","stroke",NULL,0,0,0
+"bisphosphonates","stroke",0.525700787306,0.525700787306,0,0
+"boceprevir","stroke",NULL,0,0,0
+"brentuximab","stroke",NULL,0,0,0
+"citalopram","stroke",1.32728231852,1.32728231852,1,0
+"dabigatran","stroke",36.4516739947,36.4516739947,1,0
+"dalfampridine","stroke",2.36117685778,2.36117685778,1,0
+"dasatinib","stroke",NULL,0,0,1
+"dronedarone","stroke",13.7416712937,13.7416712937,1,1
+"Drospirenone","stroke",0.376368711134,0.376368711134,0,0
+"fluconazole","stroke",0.484271380696,0.484271380696,0,0
+"ipilimumab","stroke",NULL,0,0,0
+"lenalidomide","stroke",0.764678873613,0.764678873613,0,0
+"linezolid","stroke",0.280917298837,0.280917298837,0,0
+"Liquid Acetaminophen","stroke",NULL,0,0,0
+"liraglutide","stroke",1.34138751926,1.34138751926,1,0
+"ondansetron","stroke",0.105080157371,0.105080157371,0,0
+"peginesatide","stroke",11.1357861215,11.1357861215,1,1
+"pramipexole","stroke",NULL,0,0,0
+"Proton Pump Inhibitors","stroke",1.37730799979,1.37730799979,1,0
+"rosiglitazone","stroke",1.74376134784,1.74376134784,1,1
+"Selective Serotonin Reuptake Inhibitor","stroke",0.732903387554,0.732903387554,0,0
+"sodium oxybate","stroke",0.18834176178,0.18834176178,0,0
+"telaprevir","stroke",NULL,0,0,0
+"tolvaptan","stroke",2.16529174584,2.16529174584,1,0
+"topiramate","stroke",0.512108904663,0.512108904663,0,0
+"valproate","stroke",0.750997766351,0.750997766351,0,0
+"varenicline","stroke",1.98710505915,1.98710505915,1,1
+"zoledronic acid","stroke",0.794942849792,0.794942849792,0,0
+"ibuprofen","stroke",1.22389040777,1.22389040777,1,1
+"acetaminophen","stroke",0.342387791235,0.342387791235,0,0
+"aspirin","stroke",7.10619662178,7.10619662178,1,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"5-alpha reductase inhibitors","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"Abacavir","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"aliskiren","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"Antipsychotics","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"asenapine","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"Azithromycin","Clostridium Difficile Associated Diarrhea",15.7569909043,15.7569909043,1,1
+"benzocaine","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"bisphosphonates","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"boceprevir","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"brentuximab","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"citalopram","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"dabigatran","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"dalfampridine","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"dasatinib","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"dronedarone","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"Drospirenone","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"fluconazole","Clostridium Difficile Associated Diarrhea",1.98363770355,1.98363770355,1,0
+"ipilimumab","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"lenalidomide","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"linezolid","Clostridium Difficile Associated Diarrhea",21.0528138528,21.0528138528,1,1
+"Liquid Acetaminophen","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"liraglutide","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"ondansetron","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"peginesatide","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"pramipexole","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"Proton Pump Inhibitors","Clostridium Difficile Associated Diarrhea",26.5447377856,26.5447377856,1,1
+"rosiglitazone","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"sodium oxybate","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"telaprevir","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"tolvaptan","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"topiramate","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"valproate","Clostridium Difficile Associated Diarrhea",1.04999146372,1.04999146372,1,0
+"varenicline","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"zoledronic acid","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"ibuprofen","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"acetaminophen","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"aspirin","Clostridium Difficile Associated Diarrhea",NULL,0,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","CNS reactions",NULL,0,0,0
+"5-alpha reductase inhibitors","CNS reactions",NULL,0,0,0
+"Abacavir","CNS reactions",32.0641798412,32.0641798412,1,0
+"aliskiren","CNS reactions",NULL,0,0,0
+"Antipsychotics","CNS reactions",1.832199574,1.832199574,1,0
+"asenapine","CNS reactions",NULL,0,0,1
+"Azithromycin","CNS reactions",NULL,0,0,0
+"benzocaine","CNS reactions",NULL,0,0,0
+"bisphosphonates","CNS reactions",NULL,0,0,0
+"boceprevir","CNS reactions",NULL,0,0,0
+"brentuximab","CNS reactions",NULL,0,0,0
+"citalopram","CNS reactions",11.4960315767,11.4960315767,1,1
+"dabigatran","CNS reactions",NULL,0,0,0
+"dalfampridine","CNS reactions",NULL,0,0,0
+"dasatinib","CNS reactions",NULL,0,0,0
+"dronedarone","CNS reactions",NULL,0,0,0
+"Drospirenone","CNS reactions",NULL,0,0,0
+"fluconazole","CNS reactions",8.42229460379,8.42229460379,1,0
+"ipilimumab","CNS reactions",NULL,0,0,0
+"lenalidomide","CNS reactions",NULL,0,0,0
+"linezolid","CNS reactions",NULL,0,0,1
+"Liquid Acetaminophen","CNS reactions",NULL,0,0,0
+"liraglutide","CNS reactions",NULL,0,0,0
+"ondansetron","CNS reactions",NULL,0,0,0
+"peginesatide","CNS reactions",NULL,0,0,0
+"pramipexole","CNS reactions",NULL,0,0,1
+"Proton Pump Inhibitors","CNS reactions",NULL,0,0,0
+"rosiglitazone","CNS reactions",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","CNS reactions",2.74838915342,2.74838915342,1,1
+"sodium oxybate","CNS reactions",NULL,0,0,1
+"telaprevir","CNS reactions",NULL,0,0,0
+"tolvaptan","CNS reactions",NULL,0,0,0
+"topiramate","CNS reactions",11.1894161634,11.1894161634,1,1
+"valproate","CNS reactions",3.79384231329,3.79384231329,1,0
+"varenicline","CNS reactions",NULL,0,0,1
+"zoledronic acid","CNS reactions",NULL,0,0,0
+"ibuprofen","CNS reactions",3.74356060606,3.74356060606,1,0
+"acetaminophen","CNS reactions",1.46273423098,1.46273423098,1,0
+"aspirin","CNS reactions",1.59800479721,1.59800479721,1,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"5-alpha reductase inhibitors","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"Abacavir","Progressive Multifocal Leukoencephalopathy",9.29472300363,9.29472300363,1,0
+"aliskiren","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"Antipsychotics","Progressive Multifocal Leukoencephalopathy",0.390181134708,0.390181134708,0,0
+"asenapine","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"Azithromycin","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"benzocaine","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"bisphosphonates","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"boceprevir","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"brentuximab","Progressive Multifocal Leukoencephalopathy",193.326206897,193.326206897,1,1
+"citalopram","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"dabigatran","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"dalfampridine","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"dasatinib","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"dronedarone","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"Drospirenone","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"fluconazole","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"ipilimumab","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"lenalidomide","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"linezolid","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"Liquid Acetaminophen","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"liraglutide","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"ondansetron","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"peginesatide","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"pramipexole","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"Proton Pump Inhibitors","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"rosiglitazone","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","Progressive Multifocal Leukoencephalopathy",0.589281070109,0.589281070109,0,0
+"sodium oxybate","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"telaprevir","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"tolvaptan","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"topiramate","Progressive Multifocal Leukoencephalopathy",4.36966904064,4.36966904064,1,0
+"valproate","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"varenicline","Progressive Multifocal Leukoencephalopathy",32.7012761972,32.7012761972,1,0
+"zoledronic acid","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"ibuprofen","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"acetaminophen","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"aspirin","Progressive Multifocal Leukoencephalopathy",NULL,0,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","Respiratory Depression",0.680830448471,0.680830448471,0,0
+"5-alpha reductase inhibitors","Respiratory Depression",NULL,0,0,0
+"Abacavir","Respiratory Depression",NULL,0,0,0
+"aliskiren","Respiratory Depression",NULL,0,0,0
+"Antipsychotics","Respiratory Depression",0.744702594211,0.744702594211,0,0
+"asenapine","Respiratory Depression",NULL,0,0,0
+"Azithromycin","Respiratory Depression",0.514772299172,0.514772299172,0,0
+"benzocaine","Respiratory Depression",1.60082045542,1.60082045542,1,0
+"bisphosphonates","Respiratory Depression",0.231096870448,0.231096870448,0,0
+"boceprevir","Respiratory Depression",NULL,0,0,0
+"brentuximab","Respiratory Depression",NULL,0,0,0
+"citalopram","Respiratory Depression",0.937704551027,0.937704551027,0,0
+"dabigatran","Respiratory Depression",0.41526784253,0.41526784253,0,0
+"dalfampridine","Respiratory Depression",3.65420849545,3.65420849545,1,0
+"dasatinib","Respiratory Depression",NULL,0,0,0
+"dronedarone","Respiratory Depression",NULL,0,0,0
+"Drospirenone","Respiratory Depression",NULL,0,0,0
+"fluconazole","Respiratory Depression",0.685044301316,0.685044301316,0,0
+"ipilimumab","Respiratory Depression",NULL,0,0,0
+"lenalidomide","Respiratory Depression",NULL,0,0,0
+"linezolid","Respiratory Depression",NULL,0,0,0
+"Liquid Acetaminophen","Respiratory Depression",1.01500985464,1.01500985464,1,0
+"liraglutide","Respiratory Depression",NULL,0,0,0
+"ondansetron","Respiratory Depression",0.650432350165,0.650432350165,0,0
+"peginesatide","Respiratory Depression",NULL,0,0,0
+"pramipexole","Respiratory Depression",NULL,0,0,0
+"Proton Pump Inhibitors","Respiratory Depression",NULL,0,0,0
+"rosiglitazone","Respiratory Depression",0.351938585945,0.351938585945,0,0
+"Selective Serotonin Reuptake Inhibitor","Respiratory Depression",0.751992621673,0.751992621673,0,0
+"sodium oxybate","Respiratory Depression",6.99056298963,6.99056298963,1,1
+"telaprevir","Respiratory Depression",NULL,0,0,0
+"tolvaptan","Respiratory Depression",NULL,0,0,0
+"topiramate","Respiratory Depression",0.230833752982,0.230833752982,0,0
+"valproate","Respiratory Depression",0.596379310611,0.596379310611,0,0
+"varenicline","Respiratory Depression",1.06209022165,1.06209022165,1,0
+"zoledronic acid","Respiratory Depression",0.635973156601,0.635973156601,0,0
+"ibuprofen","Respiratory Depression",0.874572357005,0.874572357005,0,0
+"acetaminophen","Respiratory Depression",1.05740223173,1.05740223173,1,0
+"aspirin","Respiratory Depression",0.694812206852,0.694812206852,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","seizure",NULL,0,0,0
+"5-alpha reductase inhibitors","seizure",1.80509012944,1.80509012944,1,0
+"Abacavir","seizure",0.254894256759,0.254894256759,0,0
+"aliskiren","seizure",NULL,0,0,0
+"Antipsychotics","seizure",1.75304202105,1.75304202105,1,1
+"asenapine","seizure",NULL,0,0,0
+"Azithromycin","seizure",0.236974331734,0.236974331734,0,0
+"benzocaine","seizure",0.43385203438,0.43385203438,0,0
+"bisphosphonates","seizure",0.104537233922,0.104537233922,0,0
+"boceprevir","seizure",NULL,0,0,0
+"brentuximab","seizure",NULL,0,0,0
+"citalopram","seizure",3.69486552052,3.69486552052,1,1
+"dabigatran","seizure",NULL,0,0,0
+"dalfampridine","seizure",20.3884984457,20.3884984457,1,1
+"dasatinib","seizure",NULL,0,0,0
+"dronedarone","seizure",NULL,0,0,0
+"Drospirenone","seizure",NULL,0,0,0
+"fluconazole","seizure",0.538168652154,0.538168652154,0,0
+"ipilimumab","seizure",0.862412025047,0.862412025047,0,0
+"lenalidomide","seizure",NULL,0,0,0
+"linezolid","seizure",0.661707732048,0.661707732048,0,0
+"Liquid Acetaminophen","seizure",NULL,0,0,0
+"liraglutide","seizure",NULL,0,0,0
+"ondansetron","seizure",0.955556284331,0.955556284331,0,0
+"peginesatide","seizure",NULL,0,0,0
+"pramipexole","seizure",0.442703035228,0.442703035228,0,0
+"Proton Pump Inhibitors","seizure",0.272709551334,0.272709551334,0,0
+"rosiglitazone","seizure",0.309829245593,0.309829245593,0,0
+"Selective Serotonin Reuptake Inhibitor","seizure",2.24794350344,2.24794350344,1,1
+"sodium oxybate","seizure",9.96374660672,9.96374660672,1,1
+"telaprevir","seizure",NULL,0,0,0
+"tolvaptan","seizure",3.78037922795,3.78037922795,1,0
+"topiramate","seizure",28.5428098292,28.5428098292,1,0
+"valproate","seizure",23.9629890004,23.9629890004,1,0
+"varenicline","seizure",1.55894614961,1.55894614961,1,0
+"zoledronic acid","seizure",0.349925395593,0.349925395593,0,0
+"ibuprofen","seizure",0.714581671995,0.714581671995,0,0
+"acetaminophen","seizure",0.704741713517,0.704741713517,0,0
+"aspirin","seizure",0.329524615989,0.329524615989,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","death",0.471128866822,0.471128866822,0,0
+"5-alpha reductase inhibitors","death",0.170864642428,0.170864642428,0,0
+"Abacavir","death",0.674636511203,0.674636511203,0,0
+"aliskiren","death",0.517721352867,0.517721352867,0,1
+"Antipsychotics","death",0.658765349778,0.658765349778,0,0
+"asenapine","death",1.73948680039,1.73948680039,1,0
+"Azithromycin","death",1.00519612854,1.00519612854,1,1
+"benzocaine","death",0.522007194139,0.522007194139,0,1
+"bisphosphonates","death",0.404647699915,0.404647699915,0,0
+"boceprevir","death",0.903358117189,0.903358117189,0,0
+"brentuximab","death",3.0565408205,3.0565408205,1,0
+"citalopram","death",0.831358336334,0.831358336334,0,1
+"dabigatran","death",1.01447733548,1.01447733548,1,0
+"dalfampridine","death",1.66023658537,1.66023658537,1,0
+"dasatinib","death",0.450160158304,0.450160158304,0,1
+"dronedarone","death",3.75884892917,3.75884892917,1,1
+"Drospirenone","death",0.235995373332,0.235995373332,0,0
+"fluconazole","death",1.15739088948,1.15739088948,1,0
+"ipilimumab","death",2.18659275316,2.18659275316,1,1
+"lenalidomide","death",0.791319396088,0.791319396088,0,0
+"linezolid","death",0.639430569327,0.639430569327,0,0
+"Liquid Acetaminophen","death",1.48133370369,1.48133370369,1,0
+"liraglutide","death",0.590730998077,0.590730998077,0,0
+"ondansetron","death",0.127487762924,0.127487762924,0,1
+"peginesatide","death",6.54973032964,6.54973032964,1,1
+"pramipexole","death",1.25128884079,1.25128884079,1,0
+"Proton Pump Inhibitors","death",0.746175748694,0.746175748694,0,0
+"rosiglitazone","death",1.52133612878,1.52133612878,1,1
+"Selective Serotonin Reuptake Inhibitor","death",0.533232601358,0.533232601358,0,0
+"sodium oxybate","death",2.09529091865,2.09529091865,1,0
+"telaprevir","death",0.638152064436,0.638152064436,0,1
+"tolvaptan","death",1.91033801281,1.91033801281,1,0
+"topiramate","death",0.349286955242,0.349286955242,0,0
+"valproate","death",0.649049171478,0.649049171478,0,0
+"varenicline","death",1.09237529852,1.09237529852,1,0
+"zoledronic acid","death",0.655166015337,0.655166015337,0,0
+"ibuprofen","death",0.714123067331,0.714123067331,0,0
+"acetaminophen","death",1.38453404633,1.38453404633,1,0
+"aspirin","death",1.79341307971,1.79341307971,1,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","low magnesium",NULL,0,0,0
+"5-alpha reductase inhibitors","low magnesium",NULL,0,0,0
+"Abacavir","low magnesium",NULL,0,0,0
+"aliskiren","low magnesium",NULL,0,0,0
+"Antipsychotics","low magnesium",0.552326201457,0.552326201457,0,0
+"asenapine","low magnesium",NULL,0,0,0
+"Azithromycin","low magnesium",NULL,0,0,0
+"benzocaine","low magnesium",NULL,0,0,0
+"bisphosphonates","low magnesium",1.9432395691,1.9432395691,1,0
+"boceprevir","low magnesium",NULL,0,0,0
+"brentuximab","low magnesium",NULL,0,0,0
+"citalopram","low magnesium",NULL,0,0,0
+"dabigatran","low magnesium",5.68998013154,5.68998013154,1,0
+"dalfampridine","low magnesium",19.1884703467,19.1884703467,1,0
+"dasatinib","low magnesium",NULL,0,0,0
+"dronedarone","low magnesium",NULL,0,0,1
+"Drospirenone","low magnesium",NULL,0,0,0
+"fluconazole","low magnesium",1.86052216657,1.86052216657,1,0
+"ipilimumab","low magnesium",NULL,0,0,0
+"lenalidomide","low magnesium",NULL,0,0,0
+"linezolid","low magnesium",NULL,0,0,0
+"Liquid Acetaminophen","low magnesium",NULL,0,0,0
+"liraglutide","low magnesium",NULL,0,0,0
+"ondansetron","low magnesium",2.5845659486,2.5845659486,1,0
+"peginesatide","low magnesium",NULL,0,0,0
+"pramipexole","low magnesium",NULL,0,0,0
+"Proton Pump Inhibitors","low magnesium",7.77708716508,7.77708716508,1,1
+"rosiglitazone","low magnesium",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","low magnesium",0.339943963476,0.339943963476,0,0
+"sodium oxybate","low magnesium",NULL,0,0,0
+"telaprevir","low magnesium",NULL,0,0,0
+"tolvaptan","low magnesium",NULL,0,0,0
+"topiramate","low magnesium",2.30020181286,2.30020181286,1,0
+"valproate","low magnesium",1.32107975129,1.32107975129,1,0
+"varenicline","low magnesium",NULL,0,0,0
+"zoledronic acid","low magnesium",NULL,0,0,0
+"ibuprofen","low magnesium",1.11887711459,1.11887711459,1,0
+"acetaminophen","low magnesium",0.819905901787,0.819905901787,0,0
+"aspirin","low magnesium",2.11559492592,2.11559492592,1,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","birth defects",0.260499024254,0.260499024254,0,0
+"5-alpha reductase inhibitors","birth defects",0.917339733918,0.917339733918,0,1
+"Abacavir","birth defects",1.20843546695,1.20843546695,1,0
+"aliskiren","birth defects",1.17113037889,1.17113037889,1,0
+"Antipsychotics","birth defects",1.03808544711,1.03808544711,1,1
+"asenapine","birth defects",1.89697668978,1.89697668978,1,0
+"Azithromycin","birth defects",1.45453693647,1.45453693647,1,0
+"benzocaine","birth defects",0.141311741613,0.141311741613,0,0
+"bisphosphonates","birth defects",0.490570506113,0.490570506113,0,1
+"boceprevir","birth defects",2.40749603979,2.40749603979,1,1
+"brentuximab","birth defects",NULL,0,0,1
+"citalopram","birth defects",1.50947694704,1.50947694704,1,1
+"dabigatran","birth defects",0.191355073146,0.191355073146,0,0
+"dalfampridine","birth defects",0.791453850703,0.791453850703,0,0
+"dasatinib","birth defects",0.955022845,0.955022845,0,1
+"dronedarone","birth defects",0.854778977394,0.854778977394,0,0
+"Drospirenone","birth defects",0.418391815251,0.418391815251,0,0
+"fluconazole","birth defects",1.13804818809,1.13804818809,1,1
+"ipilimumab","birth defects",0.475309910377,0.475309910377,0,0
+"lenalidomide","birth defects",1.70797233104,1.70797233104,1,1
+"linezolid","birth defects",0.512281725849,0.512281725849,0,0
+"Liquid Acetaminophen","birth defects",0.49977524807,0.49977524807,0,0
+"liraglutide","birth defects",NULL,0,0,0
+"ondansetron","birth defects",0.66253943927,0.66253943927,0,0
+"peginesatide","birth defects",NULL,0,0,0
+"pramipexole","birth defects",0.971879353365,0.971879353365,0,0
+"Proton Pump Inhibitors","birth defects",0.423577474164,0.423577474164,0,0
+"rosiglitazone","birth defects",0.52970881274,0.52970881274,0,0
+"Selective Serotonin Reuptake Inhibitor","birth defects",1.00110277791,1.00110277791,1,1
+"sodium oxybate","birth defects",0.383596213293,0.383596213293,0,0
+"telaprevir","birth defects",0.408280563013,0.408280563013,0,1
+"tolvaptan","birth defects",NULL,0,0,0
+"topiramate","birth defects",1.67313016478,1.67313016478,1,1
+"valproate","birth defects",4.2996168089,4.2996168089,1,1
+"varenicline","birth defects",0.525649486944,0.525649486944,0,0
+"zoledronic acid","birth defects",0.361927854208,0.361927854208,0,1
+"ibuprofen","birth defects",1.35264245056,1.35264245056,1,1
+"acetaminophen","birth defects",0.562159539675,0.562159539675,0,0
+"aspirin","birth defects",0.74812483737,0.74812483737,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","cleft palate",NULL,0,0,0
+"5-alpha reductase inhibitors","cleft palate",NULL,0,0,0
+"Abacavir","cleft palate",1.54625893242,1.54625893242,1,0
+"aliskiren","cleft palate",NULL,0,0,0
+"Antipsychotics","cleft palate",0.705750146306,0.705750146306,0,0
+"asenapine","cleft palate",NULL,0,0,0
+"Azithromycin","cleft palate",NULL,0,0,0
+"benzocaine","cleft palate",NULL,0,0,0
+"bisphosphonates","cleft palate",0.381896475844,0.381896475844,0,0
+"boceprevir","cleft palate",NULL,0,0,0
+"brentuximab","cleft palate",NULL,0,0,0
+"citalopram","cleft palate",NULL,0,0,0
+"dabigatran","cleft palate",NULL,0,0,0
+"dalfampridine","cleft palate",NULL,0,0,0
+"dasatinib","cleft palate",NULL,0,0,0
+"dronedarone","cleft palate",NULL,0,0,0
+"Drospirenone","cleft palate",NULL,0,0,0
+"fluconazole","cleft palate",2.64575363428,2.64575363428,1,0
+"ipilimumab","cleft palate",NULL,0,0,0
+"lenalidomide","cleft palate",NULL,0,0,0
+"linezolid","cleft palate",NULL,0,0,0
+"Liquid Acetaminophen","cleft palate",19.1649489548,19.1649489548,1,0
+"liraglutide","cleft palate",NULL,0,0,0
+"ondansetron","cleft palate",1.98956604624,1.98956604624,1,0
+"peginesatide","cleft palate",NULL,0,0,0
+"pramipexole","cleft palate",NULL,0,0,0
+"Proton Pump Inhibitors","cleft palate",0.466863860426,0.466863860426,0,0
+"rosiglitazone","cleft palate",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","cleft palate",1.01091841665,1.01091841665,1,0
+"sodium oxybate","cleft palate",NULL,0,0,0
+"telaprevir","cleft palate",NULL,0,0,0
+"tolvaptan","cleft palate",NULL,0,0,0
+"topiramate","cleft palate",3.80905790846,3.80905790846,1,1
+"valproate","cleft palate",5.33211187733,5.33211187733,1,0
+"varenicline","cleft palate",NULL,0,0,0
+"zoledronic acid","cleft palate",NULL,0,0,0
+"ibuprofen","cleft palate",NULL,0,0,0
+"acetaminophen","cleft palate",1.08176081543,1.08176081543,1,0
+"aspirin","cleft palate",0.777832696755,0.777832696755,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","Impaired Cognitive Development",NULL,0,0,0
+"5-alpha reductase inhibitors","Impaired Cognitive Development",NULL,0,0,0
+"Abacavir","Impaired Cognitive Development",NULL,0,0,0
+"aliskiren","Impaired Cognitive Development",NULL,0,0,0
+"Antipsychotics","Impaired Cognitive Development",2.51045670378,2.51045670378,1,0
+"asenapine","Impaired Cognitive Development",718.312996032,718.312996032,1,0
+"Azithromycin","Impaired Cognitive Development",NULL,0,0,0
+"benzocaine","Impaired Cognitive Development",NULL,0,0,0
+"bisphosphonates","Impaired Cognitive Development",1.30096411048,1.30096411048,1,0
+"boceprevir","Impaired Cognitive Development",NULL,0,0,0
+"brentuximab","Impaired Cognitive Development",NULL,0,0,0
+"citalopram","Impaired Cognitive Development",NULL,0,0,0
+"dabigatran","Impaired Cognitive Development",NULL,0,0,0
+"dalfampridine","Impaired Cognitive Development",NULL,0,0,0
+"dasatinib","Impaired Cognitive Development",26.0636332588,26.0636332588,1,0
+"dronedarone","Impaired Cognitive Development",45.8719945355,45.8719945355,1,0
+"Drospirenone","Impaired Cognitive Development",NULL,0,0,0
+"fluconazole","Impaired Cognitive Development",NULL,0,0,0
+"ipilimumab","Impaired Cognitive Development",NULL,0,0,0
+"lenalidomide","Impaired Cognitive Development",15.7455358818,15.7455358818,1,0
+"linezolid","Impaired Cognitive Development",NULL,0,0,0
+"Liquid Acetaminophen","Impaired Cognitive Development",NULL,0,0,0
+"liraglutide","Impaired Cognitive Development",NULL,0,0,0
+"ondansetron","Impaired Cognitive Development",NULL,0,0,0
+"peginesatide","Impaired Cognitive Development",NULL,0,0,0
+"pramipexole","Impaired Cognitive Development",NULL,0,0,0
+"Proton Pump Inhibitors","Impaired Cognitive Development",2.97870094386,2.97870094386,1,0
+"rosiglitazone","Impaired Cognitive Development",41.069405692,41.069405692,1,0
+"Selective Serotonin Reuptake Inhibitor","Impaired Cognitive Development",2.73299997175,2.73299997175,1,0
+"sodium oxybate","Impaired Cognitive Development",NULL,0,0,0
+"telaprevir","Impaired Cognitive Development",NULL,0,0,0
+"tolvaptan","Impaired Cognitive Development",NULL,0,0,0
+"topiramate","Impaired Cognitive Development",5.18913965334,5.18913965334,1,0
+"valproate","Impaired Cognitive Development",16.2859152197,16.2859152197,1,1
+"varenicline","Impaired Cognitive Development",NULL,0,0,0
+"zoledronic acid","Impaired Cognitive Development",NULL,0,0,0
+"ibuprofen","Impaired Cognitive Development",NULL,0,0,0
+"acetaminophen","Impaired Cognitive Development",NULL,0,0,0
+"aspirin","Impaired Cognitive Development",NULL,0,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","pregnancy",0.105756497107,0.105756497107,0,0
+"5-alpha reductase inhibitors","pregnancy",0.863455488862,0.863455488862,0,1
+"Abacavir","pregnancy",0.461867375763,0.461867375763,0,0
+"aliskiren","pregnancy",0.468997132307,0.468997132307,0,0
+"Antipsychotics","pregnancy",0.590522498616,0.590522498616,0,1
+"asenapine","pregnancy",0.734947899383,0.734947899383,0,0
+"Azithromycin","pregnancy",0.914414600549,0.914414600549,0,0
+"benzocaine","pregnancy",0.266566645097,0.266566645097,0,0
+"bisphosphonates","pregnancy",0.140949010911,0.140949010911,0,1
+"boceprevir","pregnancy",NULL,0,0,1
+"brentuximab","pregnancy",NULL,0,0,1
+"citalopram","pregnancy",0.738028308006,0.738028308006,0,1
+"dabigatran","pregnancy",0.13756094473,0.13756094473,0,0
+"dalfampridine","pregnancy",0.350675356762,0.350675356762,0,0
+"dasatinib","pregnancy",0.289619004937,0.289619004937,0,1
+"dronedarone","pregnancy",0.254864724344,0.254864724344,0,0
+"Drospirenone","pregnancy",2.74720972304,2.74720972304,1,0
+"fluconazole","pregnancy",0.530557709582,0.530557709582,0,1
+"ipilimumab","pregnancy",NULL,0,0,0
+"lenalidomide","pregnancy",0.306187597896,0.306187597896,0,1
+"linezolid","pregnancy",0.0856417938647,0.0856417938647,0,0
+"Liquid Acetaminophen","pregnancy",0.541296911014,0.541296911014,0,0
+"liraglutide","pregnancy",NULL,0,0,0
+"ondansetron","pregnancy",0.640636488932,0.640636488932,0,0
+"peginesatide","pregnancy",NULL,0,0,0
+"pramipexole","pregnancy",0.158849383664,0.158849383664,0,0
+"Proton Pump Inhibitors","pregnancy",0.256519690087,0.256519690087,0,0
+"rosiglitazone","pregnancy",0.425667215438,0.425667215438,0,0
+"Selective Serotonin Reuptake Inhibitor","pregnancy",0.83576965622,0.83576965622,0,1
+"sodium oxybate","pregnancy",0.253213393014,0.253213393014,0,0
+"telaprevir","pregnancy",NULL,0,0,1
+"tolvaptan","pregnancy",0.32305206074,0.32305206074,0,0
+"topiramate","pregnancy",0.817524645291,0.817524645291,0,1
+"valproate","pregnancy",2.76325480109,2.76325480109,1,1
+"varenicline","pregnancy",0.874199996666,0.874199996666,0,0
+"zoledronic acid","pregnancy",0.0689801957142,0.0689801957142,0,1
+"ibuprofen","pregnancy",0.725778759463,0.725778759463,0,1
+"acetaminophen","pregnancy",0.665945608978,0.665945608978,0,0
+"aspirin","pregnancy",0.819398877991,0.819398877991,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","dose errors",NULL,0,0,0
+"5-alpha reductase inhibitors","dose errors",NULL,0,0,0
+"Abacavir","dose errors",2.42678013209,2.42678013209,1,0
+"aliskiren","dose errors",NULL,0,0,0
+"Antipsychotics","dose errors",1.00150707838,1.00150707838,1,0
+"asenapine","dose errors",37.0185496322,37.0185496322,1,0
+"Azithromycin","dose errors",NULL,0,0,0
+"benzocaine","dose errors",NULL,0,0,0
+"bisphosphonates","dose errors",1.30922163992,1.30922163992,1,0
+"boceprevir","dose errors",NULL,0,0,0
+"brentuximab","dose errors",NULL,0,0,0
+"citalopram","dose errors",4.85234932109,4.85234932109,1,0
+"dabigatran","dose errors",NULL,0,0,0
+"dalfampridine","dose errors",5.93126013759,5.93126013759,1,0
+"dasatinib","dose errors",NULL,0,0,0
+"dronedarone","dose errors",NULL,0,0,0
+"Drospirenone","dose errors",15.1253583172,15.1253583172,1,0
+"fluconazole","dose errors",5.87608923515,5.87608923515,1,0
+"ipilimumab","dose errors",NULL,0,0,0
+"lenalidomide","dose errors",NULL,0,0,0
+"linezolid","dose errors",NULL,0,0,0
+"Liquid Acetaminophen","dose errors",31.5460147965,31.5460147965,1,1
+"liraglutide","dose errors",NULL,0,0,0
+"ondansetron","dose errors",3.41683351793,3.41683351793,1,0
+"peginesatide","dose errors",NULL,0,0,0
+"pramipexole","dose errors",6.14692185489,6.14692185489,1,0
+"Proton Pump Inhibitors","dose errors",2.07487559981,2.07487559981,1,0
+"rosiglitazone","dose errors",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","dose errors",1.62306976455,1.62306976455,1,0
+"sodium oxybate","dose errors",NULL,0,0,0
+"telaprevir","dose errors",NULL,0,0,0
+"tolvaptan","dose errors",NULL,0,0,0
+"topiramate","dose errors",3.20624460504,3.20624460504,1,0
+"valproate","dose errors",3.31262189102,3.31262189102,1,0
+"varenicline","dose errors",11.0869528748,11.0869528748,1,0
+"zoledronic acid","dose errors",NULL,0,0,0
+"ibuprofen","dose errors",3.29276919046,3.29276919046,1,0
+"acetaminophen","dose errors",4.1583807836,4.1583807836,1,0
+"aspirin","dose errors",0.798224468503,0.798224468503,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","Allergic Reactions",0.591366734064,0.591366734064,0,1
+"5-alpha reductase inhibitors","Allergic Reactions",0.171226099615,0.171226099615,0,0
+"Abacavir","Allergic Reactions",8.60151923304,8.60151923304,1,1
+"aliskiren","Allergic Reactions",0.662666240918,0.662666240918,0,1
+"Antipsychotics","Allergic Reactions",0.339245527713,0.339245527713,0,0
+"asenapine","Allergic Reactions",1.01232193025,1.01232193025,1,1
+"Azithromycin","Allergic Reactions",1.07916941106,1.07916941106,1,1
+"benzocaine","Allergic Reactions",4.79050590321,4.79050590321,1,0
+"bisphosphonates","Allergic Reactions",0.238556944692,0.238556944692,0,0
+"boceprevir","Allergic Reactions",1.0825565226,1.0825565226,1,1
+"brentuximab","Allergic Reactions",NULL,0,0,1
+"citalopram","Allergic Reactions",0.257295248478,0.257295248478,0,1
+"dabigatran","Allergic Reactions",0.365062369021,0.365062369021,0,0
+"dalfampridine","Allergic Reactions",NULL,0,0,1
+"dasatinib","Allergic Reactions",0.623931010422,0.623931010422,0,0
+"dronedarone","Allergic Reactions",0.246863333154,0.246863333154,0,0
+"Drospirenone","Allergic Reactions",0.391357401539,0.391357401539,0,0
+"fluconazole","Allergic Reactions",0.610260440726,0.610260440726,0,1
+"ipilimumab","Allergic Reactions",0.630553686321,0.630553686321,0,0
+"lenalidomide","Allergic Reactions",1.02127449089,1.02127449089,1,0
+"linezolid","Allergic Reactions",0.440806595814,0.440806595814,0,0
+"Liquid Acetaminophen","Allergic Reactions",0.210765088615,0.210765088615,0,0
+"liraglutide","Allergic Reactions",0.486321186138,0.486321186138,0,1
+"ondansetron","Allergic Reactions",0.489125909312,0.489125909312,0,1
+"peginesatide","Allergic Reactions",NULL,0,0,1
+"pramipexole","Allergic Reactions",0.285495967421,0.285495967421,0,0
+"Proton Pump Inhibitors","Allergic Reactions",0.751718420356,0.751718420356,0,0
+"rosiglitazone","Allergic Reactions",0.204736043936,0.204736043936,0,0
+"Selective Serotonin Reuptake Inhibitor","Allergic Reactions",0.271238605283,0.271238605283,0,1
+"sodium oxybate","Allergic Reactions",1.0413534884,1.0413534884,1,0
+"telaprevir","Allergic Reactions",1.64668177703,1.64668177703,1,1
+"tolvaptan","Allergic Reactions",NULL,0,0,0
+"topiramate","Allergic Reactions",0.400381192831,0.400381192831,0,0
+"valproate","Allergic Reactions",0.660409188519,0.660409188519,0,0
+"varenicline","Allergic Reactions",0.554092083778,0.554092083778,0,1
+"zoledronic acid","Allergic Reactions",0.122463550287,0.122463550287,0,0
+"ibuprofen","Allergic Reactions",1.38125547851,1.38125547851,1,1
+"acetaminophen","Allergic Reactions",1.27458949792,1.27458949792,1,0
+"aspirin","Allergic Reactions",2.83625974992,2.83625974992,1,1
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","anaphylaxis",0.396585872276,0.396585872276,0,1
+"5-alpha reductase inhibitors","anaphylaxis",NULL,0,0,0
+"Abacavir","anaphylaxis",1.52113817516,1.52113817516,1,1
+"aliskiren","anaphylaxis",NULL,0,0,1
+"Antipsychotics","anaphylaxis",0.228050650763,0.228050650763,0,0
+"asenapine","anaphylaxis",NULL,0,0,1
+"Azithromycin","anaphylaxis",1.22366510661,1.22366510661,1,1
+"benzocaine","anaphylaxis",1.81482029877,1.81482029877,1,0
+"bisphosphonates","anaphylaxis",0.215072679251,0.215072679251,0,0
+"boceprevir","anaphylaxis",NULL,0,0,1
+"brentuximab","anaphylaxis",NULL,0,0,1
+"citalopram","anaphylaxis",0.31104704952,0.31104704952,0,1
+"dabigatran","anaphylaxis",NULL,0,0,0
+"dalfampridine","anaphylaxis",NULL,0,0,1
+"dasatinib","anaphylaxis",NULL,0,0,0
+"dronedarone","anaphylaxis",NULL,0,0,0
+"Drospirenone","anaphylaxis",NULL,0,0,0
+"fluconazole","anaphylaxis",1.81644728095,1.81644728095,1,1
+"ipilimumab","anaphylaxis",NULL,0,0,0
+"lenalidomide","anaphylaxis",NULL,0,0,0
+"linezolid","anaphylaxis",NULL,0,0,0
+"Liquid Acetaminophen","anaphylaxis",NULL,0,0,0
+"liraglutide","anaphylaxis",NULL,0,0,1
+"ondansetron","anaphylaxis",1.75181588693,1.75181588693,1,1
+"peginesatide","anaphylaxis",NULL,0,0,1
+"pramipexole","anaphylaxis",NULL,0,0,0
+"Proton Pump Inhibitors","anaphylaxis",2.12015116689,2.12015116689,1,0
+"rosiglitazone","anaphylaxis",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","anaphylaxis",0.0806145893784,0.0806145893784,0,1
+"sodium oxybate","anaphylaxis",NULL,0,0,0
+"telaprevir","anaphylaxis",NULL,0,0,1
+"tolvaptan","anaphylaxis",NULL,0,0,0
+"topiramate","anaphylaxis",NULL,0,0,0
+"valproate","anaphylaxis",0.0464819846312,0.0464819846312,0,0
+"varenicline","anaphylaxis",NULL,0,0,1
+"zoledronic acid","anaphylaxis",NULL,0,0,0
+"ibuprofen","anaphylaxis",2.2354894599,2.2354894599,1,1
+"acetaminophen","anaphylaxis",1.76776103291,1.76776103291,1,0
+"aspirin","anaphylaxis",2.74251330525,2.74251330525,1,1
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","angioedema",4.56296278155,4.56296278155,1,1
+"5-alpha reductase inhibitors","angioedema",1.64980209541,1.64980209541,1,0
+"Abacavir","angioedema",NULL,0,0,1
+"aliskiren","angioedema",42.361898434,42.361898434,1,1
+"Antipsychotics","angioedema",0.404020408757,0.404020408757,0,0
+"asenapine","angioedema",12.583305852,12.583305852,1,1
+"Azithromycin","angioedema",1.56358564204,1.56358564204,1,1
+"benzocaine","angioedema",8.79568001126,8.79568001126,1,0
+"bisphosphonates","angioedema",0.595930302043,0.595930302043,0,0
+"boceprevir","angioedema",NULL,0,0,1
+"brentuximab","angioedema",NULL,0,0,1
+"citalopram","angioedema",0.693254699693,0.693254699693,0,1
+"dabigatran","angioedema",NULL,0,0,0
+"dalfampridine","angioedema",NULL,0,0,1
+"dasatinib","angioedema",NULL,0,0,0
+"dronedarone","angioedema",NULL,0,0,0
+"Drospirenone","angioedema",NULL,0,0,0
+"fluconazole","angioedema",3.72339815647,3.72339815647,1,1
+"ipilimumab","angioedema",NULL,0,0,0
+"lenalidomide","angioedema",NULL,0,0,0
+"linezolid","angioedema",NULL,0,0,0
+"Liquid Acetaminophen","angioedema",NULL,0,0,0
+"liraglutide","angioedema",NULL,0,0,1
+"ondansetron","angioedema",NULL,0,0,1
+"peginesatide","angioedema",NULL,0,0,1
+"pramipexole","angioedema",NULL,0,0,0
+"Proton Pump Inhibitors","angioedema",2.78656994619,2.78656994619,1,0
+"rosiglitazone","angioedema",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","angioedema",0.624839978375,0.624839978375,0,1
+"sodium oxybate","angioedema",NULL,0,0,0
+"telaprevir","angioedema",NULL,0,0,1
+"tolvaptan","angioedema",NULL,0,0,0
+"topiramate","angioedema",NULL,0,0,0
+"valproate","angioedema",NULL,0,0,0
+"varenicline","angioedema",NULL,0,0,1
+"zoledronic acid","angioedema",NULL,0,0,0
+"ibuprofen","angioedema",5.51201321408,5.51201321408,1,1
+"acetaminophen","angioedema",4.79081863273,4.79081863273,1,0
+"aspirin","angioedema",9.77386430688,9.77386430688,1,1
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","Hypersensitivity Reactions",0.513240648631,0.513240648631,0,1
+"5-alpha reductase inhibitors","Hypersensitivity Reactions",0.175031274157,0.175031274157,0,0
+"Abacavir","Hypersensitivity Reactions",8.73078279644,8.73078279644,1,1
+"aliskiren","Hypersensitivity Reactions",0.580056282243,0.580056282243,0,1
+"Antipsychotics","Hypersensitivity Reactions",0.339223125141,0.339223125141,0,0
+"asenapine","Hypersensitivity Reactions",0.689206657934,0.689206657934,0,1
+"Azithromycin","Hypersensitivity Reactions",1.07689473218,1.07689473218,1,1
+"benzocaine","Hypersensitivity Reactions",4.57146140824,4.57146140824,1,0
+"bisphosphonates","Hypersensitivity Reactions",0.227602956942,0.227602956942,0,0
+"boceprevir","Hypersensitivity Reactions",1.10647787465,1.10647787465,1,1
+"brentuximab","Hypersensitivity Reactions",NULL,0,0,1
+"citalopram","Hypersensitivity Reactions",0.246334431929,0.246334431929,0,1
+"dabigatran","Hypersensitivity Reactions",0.372837172621,0.372837172621,0,0
+"dalfampridine","Hypersensitivity Reactions",NULL,0,0,1
+"dasatinib","Hypersensitivity Reactions",0.637874532812,0.637874532812,0,0
+"dronedarone","Hypersensitivity Reactions",0.252309419924,0.252309419924,0,0
+"Drospirenone","Hypersensitivity Reactions",0.399994341495,0.399994341495,0,0
+"fluconazole","Hypersensitivity Reactions",0.623214137104,0.623214137104,0,1
+"ipilimumab","Hypersensitivity Reactions",0.643824201331,0.643824201331,0,0
+"lenalidomide","Hypersensitivity Reactions",1.04320893491,1.04320893491,1,0
+"linezolid","Hypersensitivity Reactions",0.37546680607,0.37546680607,0,0
+"Liquid Acetaminophen","Hypersensitivity Reactions",0.215410602911,0.215410602911,0,0
+"liraglutide","Hypersensitivity Reactions",0.496766159483,0.496766159483,0,1
+"ondansetron","Hypersensitivity Reactions",0.471444607741,0.471444607741,0,1
+"peginesatide","Hypersensitivity Reactions",NULL,0,0,1
+"pramipexole","Hypersensitivity Reactions",0.291550520964,0.291550520964,0,0
+"Proton Pump Inhibitors","Hypersensitivity Reactions",0.767674775266,0.767674775266,0,0
+"rosiglitazone","Hypersensitivity Reactions",0.209311456225,0.209311456225,0,0
+"Selective Serotonin Reuptake Inhibitor","Hypersensitivity Reactions",0.271990100167,0.271990100167,0,1
+"sodium oxybate","Hypersensitivity Reactions",1.06353672841,1.06353672841,1,0
+"telaprevir","Hypersensitivity Reactions",1.68175147605,1.68175147605,1,1
+"tolvaptan","Hypersensitivity Reactions",NULL,0,0,0
+"topiramate","Hypersensitivity Reactions",0.392740349163,0.392740349163,0,0
+"valproate","Hypersensitivity Reactions",0.653577847036,0.653577847036,0,0
+"varenicline","Hypersensitivity Reactions",0.566315778665,0.566315778665,0,1
+"zoledronic acid","Hypersensitivity Reactions",0.0639037951166,0.0639037951166,0,0
+"ibuprofen","Hypersensitivity Reactions",1.39580428926,1.39580428926,1,1
+"acetaminophen","Hypersensitivity Reactions",1.2876784349,1.2876784349,1,0
+"aspirin","Hypersensitivity Reactions",2.8648925726,2.8648925726,1,1
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","ritonavir",NULL,0,0,0
+"5-alpha reductase inhibitors","ritonavir",NULL,0,0,0
+"Abacavir","ritonavir",136.157308794,136.157308794,1,0
+"aliskiren","ritonavir",NULL,0,0,0
+"Antipsychotics","ritonavir",0.362720760723,0.362720760723,0,0
+"asenapine","ritonavir",NULL,0,0,0
+"Azithromycin","ritonavir",4.68350179539,4.68350179539,1,0
+"benzocaine","ritonavir",NULL,0,0,0
+"bisphosphonates","ritonavir",0.481383767279,0.481383767279,0,0
+"boceprevir","ritonavir",NULL,0,0,1
+"brentuximab","ritonavir",NULL,0,0,0
+"citalopram","ritonavir",16.698412992,16.698412992,1,0
+"dabigatran","ritonavir",NULL,0,0,0
+"dalfampridine","ritonavir",NULL,0,0,0
+"dasatinib","ritonavir",NULL,0,0,0
+"dronedarone","ritonavir",NULL,0,0,0
+"Drospirenone","ritonavir",NULL,0,0,0
+"fluconazole","ritonavir",6.74371006552,6.74371006552,1,0
+"ipilimumab","ritonavir",NULL,0,0,0
+"lenalidomide","ritonavir",NULL,0,0,0
+"linezolid","ritonavir",2.65025293661,2.65025293661,1,0
+"Liquid Acetaminophen","ritonavir",NULL,0,0,0
+"liraglutide","ritonavir",NULL,0,0,0
+"ondansetron","ritonavir",0.773437175109,0.773437175109,0,0
+"peginesatide","ritonavir",NULL,0,0,0
+"pramipexole","ritonavir",NULL,0,0,0
+"Proton Pump Inhibitors","ritonavir",5.9258286029,5.9258286029,1,0
+"rosiglitazone","ritonavir",2.98422998461,2.98422998461,1,0
+"Selective Serotonin Reuptake Inhibitor","ritonavir",0.316623126117,0.316623126117,0,0
+"sodium oxybate","ritonavir",54.6759615385,54.6759615385,1,0
+"telaprevir","ritonavir",9.14341723559,9.14341723559,1,0
+"tolvaptan","ritonavir",NULL,0,0,0
+"topiramate","ritonavir",NULL,0,0,0
+"valproate","ritonavir",1.80793618298,1.80793618298,1,0
+"varenicline","ritonavir",NULL,0,0,0
+"zoledronic acid","ritonavir",NULL,0,0,0
+"ibuprofen","ritonavir",NULL,0,0,0
+"acetaminophen","ritonavir",0.920012794174,0.920012794174,0,0
+"aspirin","ritonavir",0.312364220288,0.312364220288,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","rash",NULL,0,0,1
+"5-alpha reductase inhibitors","rash",0.90691299043,0.90691299043,0,0
+"Abacavir","rash",12.580705142,12.580705142,1,1
+"aliskiren","rash",4.44286123466,4.44286123466,1,1
+"Antipsychotics","rash",0.291024106277,0.291024106277,0,0
+"asenapine","rash",NULL,0,0,1
+"Azithromycin","rash",3.80231873171,3.80231873171,1,1
+"benzocaine","rash",3.35973344866,3.35973344866,1,0
+"bisphosphonates","rash",0.378236529446,0.378236529446,0,0
+"boceprevir","rash",23.9484470288,23.9484470288,1,1
+"brentuximab","rash",NULL,0,0,1
+"citalopram","rash",1.79436865183,1.79436865183,1,1
+"dabigatran","rash",2.90371842431,2.90371842431,1,0
+"dalfampridine","rash",NULL,0,0,1
+"dasatinib","rash",9.85354660688,9.85354660688,1,0
+"dronedarone","rash",5.25938123978,5.25938123978,1,0
+"Drospirenone","rash",NULL,0,0,0
+"fluconazole","rash",3.10820575839,3.10820575839,1,1
+"ipilimumab","rash",18.2939525914,18.2939525914,1,0
+"lenalidomide","rash",8.72689676111,8.72689676111,1,0
+"linezolid","rash",4.48295706568,4.48295706568,1,0
+"Liquid Acetaminophen","rash",NULL,0,0,0
+"liraglutide","rash",NULL,0,0,1
+"ondansetron","rash",0.735817242673,0.735817242673,0,1
+"peginesatide","rash",NULL,0,0,1
+"pramipexole","rash",NULL,0,0,0
+"Proton Pump Inhibitors","rash",1.45650448967,1.45650448967,1,0
+"rosiglitazone","rash",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","rash",0.624666651849,0.624666651849,0,1
+"sodium oxybate","rash",NULL,0,0,0
+"telaprevir","rash",44.8015165505,44.8015165505,1,1
+"tolvaptan","rash",NULL,0,0,0
+"topiramate","rash",4.87542684517,4.87542684517,1,0
+"valproate","rash",4.51161005859,4.51161005859,1,0
+"varenicline","rash",1.42412357013,1.42412357013,1,1
+"zoledronic acid","rash",1.06582550664,1.06582550664,1,0
+"ibuprofen","rash",2.05842935504,2.05842935504,1,1
+"acetaminophen","rash",1.85324751615,1.85324751615,1,0
+"aspirin","rash",1.14060949464,1.14060949464,1,1
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","Serious Skin Reactions",NULL,0,0,1
+"5-alpha reductase inhibitors","Serious Skin Reactions",NULL,0,0,0
+"Abacavir","Serious Skin Reactions",8.7486734737,8.7486734737,1,1
+"aliskiren","Serious Skin Reactions",NULL,0,0,1
+"Antipsychotics","Serious Skin Reactions",0.523791198583,0.523791198583,0,0
+"asenapine","Serious Skin Reactions",46.1316425784,46.1316425784,1,1
+"Azithromycin","Serious Skin Reactions",NULL,0,0,1
+"benzocaine","Serious Skin Reactions",NULL,0,0,0
+"bisphosphonates","Serious Skin Reactions",5.55555473384,5.55555473384,1,0
+"boceprevir","Serious Skin Reactions",NULL,0,0,1
+"brentuximab","Serious Skin Reactions",NULL,0,0,1
+"citalopram","Serious Skin Reactions",NULL,0,0,1
+"dabigatran","Serious Skin Reactions",NULL,0,0,0
+"dalfampridine","Serious Skin Reactions",NULL,0,0,1
+"dasatinib","Serious Skin Reactions",10.7265213118,10.7265213118,1,0
+"dronedarone","Serious Skin Reactions",NULL,0,0,0
+"Drospirenone","Serious Skin Reactions",NULL,0,0,0
+"fluconazole","Serious Skin Reactions",10.9499428888,10.9499428888,1,1
+"ipilimumab","Serious Skin Reactions",NULL,0,0,0
+"lenalidomide","Serious Skin Reactions",NULL,0,0,0
+"linezolid","Serious Skin Reactions",11.2737814199,11.2737814199,1,0
+"Liquid Acetaminophen","Serious Skin Reactions",NULL,0,0,0
+"liraglutide","Serious Skin Reactions",NULL,0,0,1
+"ondansetron","Serious Skin Reactions",NULL,0,0,1
+"peginesatide","Serious Skin Reactions",NULL,0,0,1
+"pramipexole","Serious Skin Reactions",NULL,0,0,0
+"Proton Pump Inhibitors","Serious Skin Reactions",24.5652434353,24.5652434353,1,0
+"rosiglitazone","Serious Skin Reactions",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","Serious Skin Reactions",0.814164150425,0.814164150425,0,1
+"sodium oxybate","Serious Skin Reactions",NULL,0,0,0
+"telaprevir","Serious Skin Reactions",33.3779274484,33.3779274484,1,1
+"tolvaptan","Serious Skin Reactions",NULL,0,0,0
+"topiramate","Serious Skin Reactions",18.7070683159,18.7070683159,1,0
+"valproate","Serious Skin Reactions",3.97598041763,3.97598041763,1,0
+"varenicline","Serious Skin Reactions",NULL,0,0,1
+"zoledronic acid","Serious Skin Reactions",NULL,0,0,0
+"ibuprofen","Serious Skin Reactions",8.07268572811,8.07268572811,1,1
+"acetaminophen","Serious Skin Reactions",2.04076353609,2.04076353609,1,0
+"aspirin","Serious Skin Reactions",2.44278790541,2.44278790541,1,1
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","severe rash",NULL,0,0,1
+"5-alpha reductase inhibitors","severe rash",NULL,0,0,0
+"Abacavir","severe rash",11.631213051,11.631213051,1,1
+"aliskiren","severe rash",26.9724976015,26.9724976015,1,1
+"Antipsychotics","severe rash",0.267199990995,0.267199990995,0,0
+"asenapine","severe rash",NULL,0,0,1
+"Azithromycin","severe rash",5.5253982129,5.5253982129,1,1
+"benzocaine","severe rash",NULL,0,0,0
+"bisphosphonates","severe rash",0.500675301008,0.500675301008,0,0
+"boceprevir","severe rash",59.4998238196,59.4998238196,1,1
+"brentuximab","severe rash",NULL,0,0,1
+"citalopram","severe rash",3.5598506871,3.5598506871,1,1
+"dabigatran","severe rash",NULL,0,0,0
+"dalfampridine","severe rash",NULL,0,0,1
+"dasatinib","severe rash",NULL,0,0,0
+"dronedarone","severe rash",10.5663782768,10.5663782768,1,0
+"Drospirenone","severe rash",NULL,0,0,0
+"fluconazole","severe rash",0.982459533513,0.982459533513,0,1
+"ipilimumab","severe rash",15.7944764248,15.7944764248,1,0
+"lenalidomide","severe rash",10.1152630007,10.1152630007,1,0
+"linezolid","severe rash",6.06245322159,6.06245322159,1,0
+"Liquid Acetaminophen","severe rash",NULL,0,0,0
+"liraglutide","severe rash",NULL,0,0,1
+"ondansetron","severe rash",2.91826542872,2.91826542872,1,1
+"peginesatide","severe rash",NULL,0,0,1
+"pramipexole","severe rash",NULL,0,0,0
+"Proton Pump Inhibitors","severe rash",0.81319509876,0.81319509876,0,0
+"rosiglitazone","severe rash",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","severe rash",0.863276315188,0.863276315188,0,1
+"sodium oxybate","severe rash",NULL,0,0,0
+"telaprevir","severe rash",89.0473553763,89.0473553763,1,1
+"tolvaptan","severe rash",NULL,0,0,0
+"topiramate","severe rash",5.01116376151,5.01116376151,1,0
+"valproate","severe rash",4.39751344268,4.39751344268,1,0
+"varenicline","severe rash",19.0605649718,19.0605649718,1,1
+"zoledronic acid","severe rash",NULL,0,0,0
+"ibuprofen","severe rash",3.29185114914,3.29185114914,1,1
+"acetaminophen","severe rash",2.61096323397,2.61096323397,1,0
+"aspirin","severe rash",1.08057374447,1.08057374447,1,1
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","Immune-Mediated",NULL,0,0,0
+"5-alpha reductase inhibitors","Immune-Mediated",NULL,0,0,0
+"Abacavir","Immune-Mediated",6.60450317281,6.60450317281,1,1
+"aliskiren","Immune-Mediated",NULL,0,0,0
+"Antipsychotics","Immune-Mediated",0.425530150557,0.425530150557,0,0
+"asenapine","Immune-Mediated",NULL,0,0,0
+"Azithromycin","Immune-Mediated",NULL,0,0,0
+"benzocaine","Immune-Mediated",NULL,0,0,0
+"bisphosphonates","Immune-Mediated",1.17456688046,1.17456688046,1,0
+"boceprevir","Immune-Mediated",NULL,0,0,0
+"brentuximab","Immune-Mediated",NULL,0,0,0
+"citalopram","Immune-Mediated",NULL,0,0,0
+"dabigatran","Immune-Mediated",NULL,0,0,0
+"dalfampridine","Immune-Mediated",NULL,0,0,0
+"dasatinib","Immune-Mediated",25.3319148936,25.3319148936,1,0
+"dronedarone","Immune-Mediated",NULL,0,0,0
+"Drospirenone","Immune-Mediated",NULL,0,0,0
+"fluconazole","Immune-Mediated",0.81516101572,0.81516101572,0,0
+"ipilimumab","Immune-Mediated",92.3225230752,92.3225230752,1,1
+"lenalidomide","Immune-Mediated",7.36821421529,7.36821421529,1,0
+"linezolid","Immune-Mediated",4.41633617634,4.41633617634,1,0
+"Liquid Acetaminophen","Immune-Mediated",NULL,0,0,0
+"liraglutide","Immune-Mediated",NULL,0,0,0
+"ondansetron","Immune-Mediated",NULL,0,0,0
+"peginesatide","Immune-Mediated",NULL,0,0,0
+"pramipexole","Immune-Mediated",NULL,0,0,0
+"Proton Pump Inhibitors","Immune-Mediated",2.15984658045,2.15984658045,1,0
+"rosiglitazone","Immune-Mediated",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","Immune-Mediated",0.182045688828,0.182045688828,0,0
+"sodium oxybate","Immune-Mediated",NULL,0,0,0
+"telaprevir","Immune-Mediated",NULL,0,0,0
+"tolvaptan","Immune-Mediated",NULL,0,0,0
+"topiramate","Immune-Mediated",NULL,0,0,0
+"valproate","Immune-Mediated",1.4717575081,1.4717575081,1,0
+"varenicline","Immune-Mediated",NULL,0,0,0
+"zoledronic acid","Immune-Mediated",NULL,0,0,0
+"ibuprofen","Immune-Mediated",0.932562266691,0.932562266691,0,0
+"acetaminophen","Immune-Mediated",2.06709723766,2.06709723766,1,0
+"aspirin","Immune-Mediated",0.66920975366,0.66920975366,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","angiotensin converting enzyme inhibitors",0.84300266657,0.84300266657,0,0
+"5-alpha reductase inhibitors","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"Abacavir","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"aliskiren","angiotensin converting enzyme inhibitors",77.2318469388,77.2318469388,1,1
+"Antipsychotics","angiotensin converting enzyme inhibitors",0.482674697583,0.482674697583,0,0
+"asenapine","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"Azithromycin","angiotensin converting enzyme inhibitors",0.235908808395,0.235908808395,0,0
+"benzocaine","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"bisphosphonates","angiotensin converting enzyme inhibitors",0.0569397883697,0.0569397883697,0,0
+"boceprevir","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"brentuximab","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"citalopram","angiotensin converting enzyme inhibitors",1.20081827477,1.20081827477,1,0
+"dabigatran","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"dalfampridine","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"dasatinib","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"dronedarone","angiotensin converting enzyme inhibitors",14.4747109963,14.4747109963,1,0
+"Drospirenone","angiotensin converting enzyme inhibitors",7.19996003427,7.19996003427,1,0
+"fluconazole","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"ipilimumab","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"lenalidomide","angiotensin converting enzyme inhibitors",0.556158595266,0.556158595266,0,0
+"linezolid","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"Liquid Acetaminophen","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"liraglutide","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"ondansetron","angiotensin converting enzyme inhibitors",0.539776687549,0.539776687549,0,0
+"peginesatide","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"pramipexole","angiotensin converting enzyme inhibitors",1.2118857243,1.2118857243,1,0
+"Proton Pump Inhibitors","angiotensin converting enzyme inhibitors",0.912598268377,0.912598268377,0,0
+"rosiglitazone","angiotensin converting enzyme inhibitors",2.69037779868,2.69037779868,1,0
+"Selective Serotonin Reuptake Inhibitor","angiotensin converting enzyme inhibitors",0.360383639959,0.360383639959,0,0
+"sodium oxybate","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"telaprevir","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"tolvaptan","angiotensin converting enzyme inhibitors",9.69101742839,9.69101742839,1,0
+"topiramate","angiotensin converting enzyme inhibitors",0.325274404411,0.325274404411,0,0
+"valproate","angiotensin converting enzyme inhibitors",0.513394588702,0.513394588702,0,0
+"varenicline","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"zoledronic acid","angiotensin converting enzyme inhibitors",NULL,0,0,0
+"ibuprofen","angiotensin converting enzyme inhibitors",0.929920829291,0.929920829291,0,0
+"acetaminophen","angiotensin converting enzyme inhibitors",0.35171407493,0.35171407493,0,0
+"aspirin","angiotensin converting enzyme inhibitors",2.77149807959,2.77149807959,1,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","kidney impairment",9.16409989127,9.16409989127,1,1
+"5-alpha reductase inhibitors","kidney impairment",NULL,0,0,0
+"Abacavir","kidney impairment",1.85473710804,1.85473710804,1,0
+"aliskiren","kidney impairment",6.16869192546,6.16869192546,1,1
+"Antipsychotics","kidney impairment",1.04476003687,1.04476003687,1,0
+"asenapine","kidney impairment",19.0985300679,19.0985300679,1,0
+"Azithromycin","kidney impairment",6.4116709016,6.4116709016,1,0
+"benzocaine","kidney impairment",NULL,0,0,0
+"bisphosphonates","kidney impairment",2.26680894812,2.26680894812,1,1
+"boceprevir","kidney impairment",NULL,0,0,0
+"brentuximab","kidney impairment",NULL,0,0,0
+"citalopram","kidney impairment",0.797278334642,0.797278334642,0,0
+"dabigatran","kidney impairment",6.42780923575,6.42780923575,1,0
+"dalfampridine","kidney impairment",2.48969464223,2.48969464223,1,0
+"dasatinib","kidney impairment",NULL,0,0,0
+"dronedarone","kidney impairment",NULL,0,0,1
+"Drospirenone","kidney impairment",NULL,0,0,0
+"fluconazole","kidney impairment",3.20032827072,3.20032827072,1,0
+"ipilimumab","kidney impairment",NULL,0,0,0
+"lenalidomide","kidney impairment",4.75398020185,4.75398020185,1,0
+"linezolid","kidney impairment",3.04415904465,3.04415904465,1,0
+"Liquid Acetaminophen","kidney impairment",NULL,0,0,0
+"liraglutide","kidney impairment",15.8886930817,15.8886930817,1,1
+"ondansetron","kidney impairment",NULL,0,0,0
+"peginesatide","kidney impairment",NULL,0,0,0
+"pramipexole","kidney impairment",NULL,0,0,0
+"Proton Pump Inhibitors","kidney impairment",1.26774713462,1.26774713462,1,0
+"rosiglitazone","kidney impairment",2.70348982604,2.70348982604,1,0
+"Selective Serotonin Reuptake Inhibitor","kidney impairment",0.269733299323,0.269733299323,0,0
+"sodium oxybate","kidney impairment",8.94724654378,8.94724654378,1,0
+"telaprevir","kidney impairment",NULL,0,0,0
+"tolvaptan","kidney impairment",NULL,0,0,0
+"topiramate","kidney impairment",NULL,0,0,0
+"valproate","kidney impairment",0.360246882878,0.360246882878,0,0
+"varenicline","kidney impairment",6.16395638629,6.16395638629,1,0
+"zoledronic acid","kidney impairment",3.76050522598,3.76050522598,1,1
+"ibuprofen","kidney impairment",3.08660419613,3.08660419613,1,0
+"acetaminophen","kidney impairment",2.38028272114,2.38028272114,1,0
+"aspirin","kidney impairment",1.04474195514,1.04474195514,1,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","renal failure",1.45285011739,1.45285011739,1,1
+"5-alpha reductase inhibitors","renal failure",0.365004087466,0.365004087466,0,0
+"Abacavir","renal failure",0.844479770346,0.844479770346,0,0
+"aliskiren","renal failure",4.12297929565,4.12297929565,1,1
+"Antipsychotics","renal failure",0.34400615525,0.34400615525,0,0
+"asenapine","renal failure",1.24106863003,1.24106863003,1,0
+"Azithromycin","renal failure",0.972025682273,0.972025682273,0,0
+"benzocaine","renal failure",0.239612230191,0.239612230191,0,0
+"bisphosphonates","renal failure",1.2919139741,1.2919139741,1,1
+"boceprevir","renal failure",0.384128505806,0.384128505806,0,0
+"brentuximab","renal failure",NULL,0,0,0
+"citalopram","renal failure",0.338419850653,0.338419850653,0,0
+"dabigatran","renal failure",1.82461040258,1.82461040258,1,0
+"dalfampridine","renal failure",NULL,0,0,0
+"dasatinib","renal failure",1.55819224362,1.55819224362,1,0
+"dronedarone","renal failure",2.24443174935,2.24443174935,1,1
+"Drospirenone","renal failure",1.20792080142,1.20792080142,1,0
+"fluconazole","renal failure",2.04606736452,2.04606736452,1,0
+"ipilimumab","renal failure",0.782213980827,0.782213980827,0,0
+"lenalidomide","renal failure",2.18511023619,2.18511023619,1,0
+"linezolid","renal failure",2.71150852779,2.71150852779,1,0
+"Liquid Acetaminophen","renal failure",1.10444450763,1.10444450763,1,0
+"liraglutide","renal failure",0.796975285837,0.796975285837,0,1
+"ondansetron","renal failure",0.397504859819,0.397504859819,0,0
+"peginesatide","renal failure",28.8129385484,28.8129385484,1,0
+"pramipexole","renal failure",0.775389366757,0.775389366757,0,0
+"Proton Pump Inhibitors","renal failure",1.01364791299,1.01364791299,1,0
+"rosiglitazone","renal failure",1.16993307977,1.16993307977,1,0
+"Selective Serotonin Reuptake Inhibitor","renal failure",0.239301832186,0.239301832186,0,0
+"sodium oxybate","renal failure",0.290719764833,0.290719764833,0,0
+"telaprevir","renal failure",0.284038683871,0.284038683871,0,0
+"tolvaptan","renal failure",12.5742516397,12.5742516397,1,0
+"topiramate","renal failure",0.28872269629,0.28872269629,0,0
+"valproate","renal failure",0.442960633137,0.442960633137,0,0
+"varenicline","renal failure",0.75800471327,0.75800471327,0,0
+"zoledronic acid","renal failure",1.65139878804,1.65139878804,1,1
+"ibuprofen","renal failure",2.11381113281,2.11381113281,1,0
+"acetaminophen","renal failure",1.78081198345,1.78081198345,1,0
+"aspirin","renal failure",0.924826371052,0.924826371052,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","acute liver failure",0.731121907064,0.731121907064,0,0
+"5-alpha reductase inhibitors","acute liver failure",NULL,0,0,0
+"Abacavir","acute liver failure",0.768378935814,0.768378935814,0,1
+"aliskiren","acute liver failure",2.22013126216,2.22013126216,1,0
+"Antipsychotics","acute liver failure",0.319265655965,0.319265655965,0,0
+"asenapine","acute liver failure",NULL,0,0,0
+"Azithromycin","acute liver failure",NULL,0,0,1
+"benzocaine","acute liver failure",NULL,0,0,0
+"bisphosphonates","acute liver failure",0.568203546894,0.568203546894,0,0
+"boceprevir","acute liver failure",4.7574241332,4.7574241332,1,0
+"brentuximab","acute liver failure",NULL,0,0,0
+"citalopram","acute liver failure",0.381029392819,0.381029392819,0,0
+"dabigatran","acute liver failure",2.3787120666,2.3787120666,1,0
+"dalfampridine","acute liver failure",NULL,0,0,0
+"dasatinib","acute liver failure",NULL,0,0,0
+"dronedarone","acute liver failure",14.2340835486,14.2340835486,1,1
+"Drospirenone","acute liver failure",NULL,0,0,1
+"fluconazole","acute liver failure",2.03518518753,2.03518518753,1,1
+"ipilimumab","acute liver failure",NULL,0,0,1
+"lenalidomide","acute liver failure",2.54509205234,2.54509205234,1,0
+"linezolid","acute liver failure",1.72066994302,1.72066994302,1,0
+"Liquid Acetaminophen","acute liver failure",11.7675935151,11.7675935151,1,1
+"liraglutide","acute liver failure",NULL,0,0,0
+"ondansetron","acute liver failure",0.65641200261,0.65641200261,0,0
+"peginesatide","acute liver failure",NULL,0,0,0
+"pramipexole","acute liver failure",NULL,0,0,0
+"Proton Pump Inhibitors","acute liver failure",1.39467266071,1.39467266071,1,0
+"rosiglitazone","acute liver failure",6.44537325544,6.44537325544,1,0
+"Selective Serotonin Reuptake Inhibitor","acute liver failure",0.630581859449,0.630581859449,0,0
+"sodium oxybate","acute liver failure",2.57824424046,2.57824424046,1,0
+"telaprevir","acute liver failure",3.51781361962,3.51781361962,1,0
+"tolvaptan","acute liver failure",72.3375874126,72.3375874126,1,1
+"topiramate","acute liver failure",2.78863205632,2.78863205632,1,0
+"valproate","acute liver failure",5.14461674697,5.14461674697,1,1
+"varenicline","acute liver failure",NULL,0,0,0
+"zoledronic acid","acute liver failure",3.63803815711,3.63803815711,1,0
+"ibuprofen","acute liver failure",2.41769297707,2.41769297707,1,0
+"acetaminophen","acute liver failure",32.5812735153,32.5812735153,1,1
+"aspirin","acute liver failure",0.641000144875,0.641000144875,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","liver injury",0.496958545699,0.496958545699,0,0
+"5-alpha reductase inhibitors","liver injury",0.407235588161,0.407235588161,0,0
+"Abacavir","liver injury",1.03122824691,1.03122824691,1,1
+"aliskiren","liver injury",NULL,0,0,0
+"Antipsychotics","liver injury",0.540298423932,0.540298423932,0,0
+"asenapine","liver injury",NULL,0,0,0
+"Azithromycin","liver injury",0.776794263022,0.776794263022,0,1
+"benzocaine","liver injury",NULL,0,0,0
+"bisphosphonates","liver injury",0.518608039888,0.518608039888,0,0
+"boceprevir","liver injury",NULL,0,0,0
+"brentuximab","liver injury",NULL,0,0,0
+"citalopram","liver injury",0.376628360438,0.376628360438,0,0
+"dabigatran","liver injury",0.527531662857,0.527531662857,0,0
+"dalfampridine","liver injury",NULL,0,0,0
+"dasatinib","liver injury",0.838667627235,0.838667627235,0,0
+"dronedarone","liver injury",2.40874911901,2.40874911901,1,1
+"Drospirenone","liver injury",NULL,0,0,1
+"fluconazole","liver injury",1.5028960824,1.5028960824,1,1
+"ipilimumab","liver injury",2.79036853292,2.79036853292,1,1
+"lenalidomide","liver injury",0.322244147544,0.322244147544,0,0
+"linezolid","liver injury",0.24576334359,0.24576334359,0,0
+"Liquid Acetaminophen","liver injury",18.3485911576,18.3485911576,1,1
+"liraglutide","liver injury",0.778382261466,0.778382261466,0,0
+"ondansetron","liver injury",0.29247346831,0.29247346831,0,0
+"peginesatide","liver injury",NULL,0,0,0
+"pramipexole","liver injury",NULL,0,0,0
+"Proton Pump Inhibitors","liver injury",0.426646726688,0.426646726688,0,0
+"rosiglitazone","liver injury",2.98027775549,2.98027775549,1,0
+"Selective Serotonin Reuptake Inhibitor","liver injury",0.586357582161,0.586357582161,0,0
+"sodium oxybate","liver injury",1.11576313432,1.11576313432,1,0
+"telaprevir","liver injury",NULL,0,0,0
+"tolvaptan","liver injury",1.64313899949,1.64313899949,1,1
+"topiramate","liver injury",0.631246809887,0.631246809887,0,0
+"valproate","liver injury",2.96155109096,2.96155109096,1,1
+"varenicline","liver injury",0.914120569409,0.914120569409,0,0
+"zoledronic acid","liver injury",0.415834760059,0.415834760059,0,0
+"ibuprofen","liver injury",1.48894366461,1.48894366461,1,0
+"acetaminophen","liver injury",13.5067544487,13.5067544487,1,1
+"aspirin","liver injury",0.82060670251,0.82060670251,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","Pulmonary Hypertension",NULL,0,0,0
+"5-alpha reductase inhibitors","Pulmonary Hypertension",NULL,0,0,0
+"Abacavir","Pulmonary Hypertension",0.733460084034,0.733460084034,0,0
+"aliskiren","Pulmonary Hypertension",NULL,0,0,0
+"Antipsychotics","Pulmonary Hypertension",0.18905825098,0.18905825098,0,0
+"asenapine","Pulmonary Hypertension",NULL,0,0,0
+"Azithromycin","Pulmonary Hypertension",0.464658589555,0.464658589555,0,0
+"benzocaine","Pulmonary Hypertension",NULL,0,0,0
+"bisphosphonates","Pulmonary Hypertension",0.175669752605,0.175669752605,0,0
+"boceprevir","Pulmonary Hypertension",NULL,0,0,0
+"brentuximab","Pulmonary Hypertension",NULL,0,0,0
+"citalopram","Pulmonary Hypertension",0.763902272184,0.763902272184,0,1
+"dabigatran","Pulmonary Hypertension",1.11122388157,1.11122388157,1,0
+"dalfampridine","Pulmonary Hypertension",4.27603596203,4.27603596203,1,0
+"dasatinib","Pulmonary Hypertension",11.7312793122,11.7312793122,1,1
+"dronedarone","Pulmonary Hypertension",6.19411547685,6.19411547685,1,0
+"Drospirenone","Pulmonary Hypertension",NULL,0,0,0
+"fluconazole","Pulmonary Hypertension",0.263763255492,0.263763255492,0,0
+"ipilimumab","Pulmonary Hypertension",NULL,0,0,0
+"lenalidomide","Pulmonary Hypertension",0.708708864628,0.708708864628,0,0
+"linezolid","Pulmonary Hypertension",2.00327773301,2.00327773301,1,0
+"Liquid Acetaminophen","Pulmonary Hypertension",NULL,0,0,0
+"liraglutide","Pulmonary Hypertension",NULL,0,0,0
+"ondansetron","Pulmonary Hypertension",0.59883165096,0.59883165096,0,0
+"peginesatide","Pulmonary Hypertension",NULL,0,0,0
+"pramipexole","Pulmonary Hypertension",2.80637077096,2.80637077096,1,0
+"Proton Pump Inhibitors","Pulmonary Hypertension",0.402215290704,0.402215290704,0,0
+"rosiglitazone","Pulmonary Hypertension",1.5582468247,1.5582468247,1,0
+"Selective Serotonin Reuptake Inhibitor","Pulmonary Hypertension",4.3194704123,4.3194704123,1,1
+"sodium oxybate","Pulmonary Hypertension",0.733597473052,0.733597473052,0,0
+"telaprevir","Pulmonary Hypertension",NULL,0,0,0
+"tolvaptan","Pulmonary Hypertension",NULL,0,0,0
+"topiramate","Pulmonary Hypertension",0.233563932008,0.233563932008,0,0
+"valproate","Pulmonary Hypertension",0.122171902896,0.122171902896,0,0
+"varenicline","Pulmonary Hypertension",4.4241881813,4.4241881813,1,0
+"zoledronic acid","Pulmonary Hypertension",NULL,0,0,0
+"ibuprofen","Pulmonary Hypertension",3.20474258414,3.20474258414,1,0
+"acetaminophen","Pulmonary Hypertension",0.524982485933,0.524982485933,0,0
+"aspirin","Pulmonary Hypertension",1.09992901269,1.09992901269,1,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","Pulmonary toxicity",NULL,0,0,0
+"5-alpha reductase inhibitors","Pulmonary toxicity",0.385392991316,0.385392991316,0,0
+"Abacavir","Pulmonary toxicity",NULL,0,0,0
+"aliskiren","Pulmonary toxicity",NULL,0,0,0
+"Antipsychotics","Pulmonary toxicity",0.124125514997,0.124125514997,0,0
+"asenapine","Pulmonary toxicity",NULL,0,0,0
+"Azithromycin","Pulmonary toxicity",0.723395733872,0.723395733872,0,0
+"benzocaine","Pulmonary toxicity",0.143894442702,0.143894442702,0,0
+"bisphosphonates","Pulmonary toxicity",0.321508925428,0.321508925428,0,0
+"boceprevir","Pulmonary toxicity",NULL,0,0,0
+"brentuximab","Pulmonary toxicity",NULL,0,0,1
+"citalopram","Pulmonary toxicity",0.0896172264227,0.0896172264227,0,1
+"dabigatran","Pulmonary toxicity",NULL,0,0,0
+"dalfampridine","Pulmonary toxicity",0.852187998818,0.852187998818,0,0
+"dasatinib","Pulmonary toxicity",1.54196226974,1.54196226974,1,1
+"dronedarone","Pulmonary toxicity",4.19852832029,4.19852832029,1,0
+"Drospirenone","Pulmonary toxicity",NULL,0,0,0
+"fluconazole","Pulmonary toxicity",0.616389431716,0.616389431716,0,0
+"ipilimumab","Pulmonary toxicity",0.728338853912,0.728338853912,0,0
+"lenalidomide","Pulmonary toxicity",1.41557160884,1.41557160884,1,0
+"linezolid","Pulmonary toxicity",0.598432320619,0.598432320619,0,0
+"Liquid Acetaminophen","Pulmonary toxicity",0.76179494304,0.76179494304,0,0
+"liraglutide","Pulmonary toxicity",NULL,0,0,0
+"ondansetron","Pulmonary toxicity",0.559835758365,0.559835758365,0,0
+"peginesatide","Pulmonary toxicity",NULL,0,0,0
+"pramipexole","Pulmonary toxicity",NULL,0,0,0
+"Proton Pump Inhibitors","Pulmonary toxicity",0.115718193004,0.115718193004,0,0
+"rosiglitazone","Pulmonary toxicity",0.285951494469,0.285951494469,0,0
+"Selective Serotonin Reuptake Inhibitor","Pulmonary toxicity",0.154697426453,0.154697426453,0,0
+"sodium oxybate","Pulmonary toxicity",0.193970686719,0.193970686719,0,0
+"telaprevir","Pulmonary toxicity",NULL,0,0,0
+"tolvaptan","Pulmonary toxicity",NULL,0,0,0
+"topiramate","Pulmonary toxicity",0.0578953673416,0.0578953673416,0,0
+"valproate","Pulmonary toxicity",0.115754319412,0.115754319412,0,0
+"varenicline","Pulmonary toxicity",0.400761078615,0.400761078615,0,0
+"zoledronic acid","Pulmonary toxicity",0.385128381879,0.385128381879,0,0
+"ibuprofen","Pulmonary toxicity",0.858515880726,0.858515880726,0,0
+"acetaminophen","Pulmonary toxicity",0.516945524235,0.516945524235,0,0
+"aspirin","Pulmonary toxicity",0.339717511341,0.339717511341,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","Methemoglobinemia",NULL,0,0,0
+"5-alpha reductase inhibitors","Methemoglobinemia",NULL,0,0,0
+"Abacavir","Methemoglobinemia",NULL,0,0,0
+"aliskiren","Methemoglobinemia",NULL,0,0,0
+"Antipsychotics","Methemoglobinemia",0.0944273857574,0.0944273857574,0,0
+"asenapine","Methemoglobinemia",NULL,0,0,0
+"Azithromycin","Methemoglobinemia",NULL,0,0,0
+"benzocaine","Methemoglobinemia",430.638622285,430.638622285,1,1
+"bisphosphonates","Methemoglobinemia",NULL,0,0,0
+"boceprevir","Methemoglobinemia",NULL,0,0,0
+"brentuximab","Methemoglobinemia",NULL,0,0,0
+"citalopram","Methemoglobinemia",NULL,0,0,0
+"dabigatran","Methemoglobinemia",NULL,0,0,0
+"dalfampridine","Methemoglobinemia",NULL,0,0,0
+"dasatinib","Methemoglobinemia",NULL,0,0,0
+"dronedarone","Methemoglobinemia",NULL,0,0,0
+"Drospirenone","Methemoglobinemia",NULL,0,0,0
+"fluconazole","Methemoglobinemia",NULL,0,0,0
+"ipilimumab","Methemoglobinemia",NULL,0,0,0
+"lenalidomide","Methemoglobinemia",NULL,0,0,0
+"linezolid","Methemoglobinemia",NULL,0,0,0
+"Liquid Acetaminophen","Methemoglobinemia",18.1575301801,18.1575301801,1,0
+"liraglutide","Methemoglobinemia",NULL,0,0,0
+"ondansetron","Methemoglobinemia",NULL,0,0,0
+"peginesatide","Methemoglobinemia",NULL,0,0,0
+"pramipexole","Methemoglobinemia",NULL,0,0,0
+"Proton Pump Inhibitors","Methemoglobinemia",NULL,0,0,0
+"rosiglitazone","Methemoglobinemia",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","Methemoglobinemia",0.301304528432,0.301304528432,0,0
+"sodium oxybate","Methemoglobinemia",NULL,0,0,0
+"telaprevir","Methemoglobinemia",NULL,0,0,0
+"tolvaptan","Methemoglobinemia",NULL,0,0,0
+"topiramate","Methemoglobinemia",NULL,0,0,0
+"valproate","Methemoglobinemia",0.379080542599,0.379080542599,0,0
+"varenicline","Methemoglobinemia",NULL,0,0,0
+"zoledronic acid","Methemoglobinemia",NULL,0,0,0
+"ibuprofen","Methemoglobinemia",0.709195816805,0.709195816805,0,0
+"acetaminophen","Methemoglobinemia",5.80435105249,5.80435105249,1,0
+"aspirin","Methemoglobinemia",0.434986311407,0.434986311407,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","acute pancreatitis",17.8180865506,17.8180865506,1,1
+"5-alpha reductase inhibitors","acute pancreatitis",3.94185199282,3.94185199282,1,0
+"Abacavir","acute pancreatitis",6.19040824181,6.19040824181,1,0
+"aliskiren","acute pancreatitis",2.20768070314,2.20768070314,1,0
+"Antipsychotics","acute pancreatitis",0.423672887903,0.423672887903,0,0
+"asenapine","acute pancreatitis",NULL,0,0,0
+"Azithromycin","acute pancreatitis",1.50346162537,1.50346162537,1,0
+"benzocaine","acute pancreatitis",NULL,0,0,0
+"bisphosphonates","acute pancreatitis",0.829052897179,0.829052897179,0,0
+"boceprevir","acute pancreatitis",4.73074436386,4.73074436386,1,0
+"brentuximab","acute pancreatitis",NULL,0,0,0
+"citalopram","acute pancreatitis",0.378892569188,0.378892569188,0,0
+"dabigatran","acute pancreatitis",1.18268609097,1.18268609097,1,0
+"dalfampridine","acute pancreatitis",NULL,0,0,0
+"dasatinib","acute pancreatitis",NULL,0,0,0
+"dronedarone","acute pancreatitis",NULL,0,0,0
+"Drospirenone","acute pancreatitis",NULL,0,0,0
+"fluconazole","acute pancreatitis",0.748793240897,0.748793240897,0,0
+"ipilimumab","acute pancreatitis",18.7048396471,18.7048396471,1,0
+"lenalidomide","acute pancreatitis",NULL,0,0,0
+"linezolid","acute pancreatitis",NULL,0,0,0
+"Liquid Acetaminophen","acute pancreatitis",NULL,0,0,0
+"liraglutide","acute pancreatitis",25.1174959397,25.1174959397,1,1
+"ondansetron","acute pancreatitis",0.6527308255,0.6527308255,0,0
+"peginesatide","acute pancreatitis",NULL,0,0,0
+"pramipexole","acute pancreatitis",NULL,0,0,0
+"Proton Pump Inhibitors","acute pancreatitis",1.93642015178,1.93642015178,1,0
+"rosiglitazone","acute pancreatitis",2.05834230852,2.05834230852,1,0
+"Selective Serotonin Reuptake Inhibitor","acute pancreatitis",0.783044167068,0.783044167068,0,0
+"sodium oxybate","acute pancreatitis",NULL,0,0,0
+"telaprevir","acute pancreatitis",3.49808562117,3.49808562117,1,0
+"tolvaptan","acute pancreatitis",NULL,0,0,0
+"topiramate","acute pancreatitis",NULL,0,0,0
+"valproate","acute pancreatitis",6.27395036686,6.27395036686,1,1
+"varenicline","acute pancreatitis",NULL,0,0,0
+"zoledronic acid","acute pancreatitis",NULL,0,0,0
+"ibuprofen","acute pancreatitis",0.771086767627,0.771086767627,0,0
+"acetaminophen","acute pancreatitis",1.47051711517,1.47051711517,1,0
+"aspirin","acute pancreatitis",0.276522993676,0.276522993676,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","pancreatitis",19.6080317658,19.6080317658,1,1
+"5-alpha reductase inhibitors","pancreatitis",1.98570913357,1.98570913357,1,0
+"Abacavir","pancreatitis",4.40921267478,4.40921267478,1,0
+"aliskiren","pancreatitis",1.10842060199,1.10842060199,1,0
+"Antipsychotics","pancreatitis",0.447152899709,0.447152899709,0,0
+"asenapine","pancreatitis",5.60205007102,5.60205007102,1,0
+"Azithromycin","pancreatitis",0.670910023974,0.670910023974,0,0
+"benzocaine","pancreatitis",NULL,0,0,0
+"bisphosphonates","pancreatitis",0.359571715295,0.359571715295,0,0
+"boceprevir","pancreatitis",2.37518700426,2.37518700426,1,0
+"brentuximab","pancreatitis",NULL,0,0,0
+"citalopram","pancreatitis",0.190232368762,0.190232368762,0,0
+"dabigatran","pancreatitis",0.593796751066,0.593796751066,0,0
+"dalfampridine","pancreatitis",NULL,0,0,0
+"dasatinib","pancreatitis",NULL,0,0,0
+"dronedarone","pancreatitis",NULL,0,0,0
+"Drospirenone","pancreatitis",NULL,0,0,0
+"fluconazole","pancreatitis",1.51433562938,1.51433562938,1,0
+"ipilimumab","pancreatitis",3.36220319092,3.36220319092,1,0
+"lenalidomide","pancreatitis",NULL,0,0,0
+"linezolid","pancreatitis",1.19059319931,1.19059319931,1,0
+"Liquid Acetaminophen","pancreatitis",NULL,0,0,0
+"liraglutide","pancreatitis",31.5901143351,31.5901143351,1,1
+"ondansetron","pancreatitis",0.491579439121,0.491579439121,0,0
+"peginesatide","pancreatitis",NULL,0,0,0
+"pramipexole","pancreatitis",NULL,0,0,0
+"Proton Pump Inhibitors","pancreatitis",1.40706469009,1.40706469009,1,0
+"rosiglitazone","pancreatitis",1.95237919178,1.95237919178,1,0
+"Selective Serotonin Reuptake Inhibitor","pancreatitis",0.510121795977,0.510121795977,0,0
+"sodium oxybate","pancreatitis",NULL,0,0,0
+"telaprevir","pancreatitis",1.75630024963,1.75630024963,1,0
+"tolvaptan","pancreatitis",NULL,0,0,0
+"topiramate","pancreatitis",0.400782596496,0.400782596496,0,0
+"valproate","pancreatitis",6.08654803513,6.08654803513,1,1
+"varenicline","pancreatitis",NULL,0,0,0
+"zoledronic acid","pancreatitis",0.881527732061,0.881527732061,0,0
+"ibuprofen","pancreatitis",0.516601043716,0.516601043716,0,0
+"acetaminophen","pancreatitis",1.17347579764,1.17347579764,1,0
+"aspirin","pancreatitis",0.57027123896,0.57027123896,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","Serotonin Syndrome",NULL,0,0,0
+"5-alpha reductase inhibitors","Serotonin Syndrome",NULL,0,0,0
+"Abacavir","Serotonin Syndrome",NULL,0,0,0
+"aliskiren","Serotonin Syndrome",NULL,0,0,0
+"Antipsychotics","Serotonin Syndrome",8.10124629239,8.10124629239,1,0
+"asenapine","Serotonin Syndrome",88.8128094059,88.8128094059,1,0
+"Azithromycin","Serotonin Syndrome",NULL,0,0,0
+"benzocaine","Serotonin Syndrome",NULL,0,0,0
+"bisphosphonates","Serotonin Syndrome",0.147293762425,0.147293762425,0,0
+"boceprevir","Serotonin Syndrome",NULL,0,0,0
+"brentuximab","Serotonin Syndrome",NULL,0,0,0
+"citalopram","Serotonin Syndrome",89.4819324766,89.4819324766,1,1
+"dabigatran","Serotonin Syndrome",NULL,0,0,0
+"dalfampridine","Serotonin Syndrome",NULL,0,0,0
+"dasatinib","Serotonin Syndrome",3.58314622063,3.58314622063,1,0
+"dronedarone","Serotonin Syndrome",NULL,0,0,0
+"Drospirenone","Serotonin Syndrome",NULL,0,0,0
+"fluconazole","Serotonin Syndrome",0.592569433772,0.592569433772,0,0
+"ipilimumab","Serotonin Syndrome",NULL,0,0,0
+"lenalidomide","Serotonin Syndrome",NULL,0,0,0
+"linezolid","Serotonin Syndrome",48.4984724667,48.4984724667,1,1
+"Liquid Acetaminophen","Serotonin Syndrome",NULL,0,0,0
+"liraglutide","Serotonin Syndrome",NULL,0,0,0
+"ondansetron","Serotonin Syndrome",18.0797952226,18.0797952226,1,0
+"peginesatide","Serotonin Syndrome",NULL,0,0,0
+"pramipexole","Serotonin Syndrome",4.08415251127,4.08415251127,1,0
+"Proton Pump Inhibitors","Serotonin Syndrome",1.21911099696,1.21911099696,1,0
+"rosiglitazone","Serotonin Syndrome",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","Serotonin Syndrome",70.495708948,70.495708948,1,1
+"sodium oxybate","Serotonin Syndrome",10.6531806692,10.6531806692,1,0
+"telaprevir","Serotonin Syndrome",NULL,0,0,0
+"tolvaptan","Serotonin Syndrome",21.0453990694,21.0453990694,1,0
+"topiramate","Serotonin Syndrome",1.75867276939,1.75867276939,1,0
+"valproate","Serotonin Syndrome",2.79217201879,2.79217201879,1,0
+"varenicline","Serotonin Syndrome",6.79767731012,6.79767731012,1,0
+"zoledronic acid","Serotonin Syndrome",NULL,0,0,0
+"ibuprofen","Serotonin Syndrome",0.666289511904,0.666289511904,0,0
+"acetaminophen","Serotonin Syndrome",1.2798467258,1.2798467258,1,0
+"aspirin","Serotonin Syndrome",0.487042439919,0.487042439919,0,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","blood clots",NULL,0,0,0
+"5-alpha reductase inhibitors","blood clots",NULL,0,0,0
+"Abacavir","blood clots",NULL,0,0,0
+"aliskiren","blood clots",NULL,0,0,0
+"Antipsychotics","blood clots",NULL,0,0,0
+"asenapine","blood clots",NULL,0,0,0
+"Azithromycin","blood clots",NULL,0,0,0
+"benzocaine","blood clots",NULL,0,0,0
+"bisphosphonates","blood clots",NULL,0,0,0
+"boceprevir","blood clots",NULL,0,0,0
+"brentuximab","blood clots",NULL,0,0,0
+"citalopram","blood clots",NULL,0,0,0
+"dabigatran","blood clots",12.5511193574,12.5511193574,1,0
+"dalfampridine","blood clots",NULL,0,0,0
+"dasatinib","blood clots",NULL,0,0,0
+"dronedarone","blood clots",NULL,0,0,0
+"Drospirenone","blood clots",54.5413022777,54.5413022777,1,1
+"fluconazole","blood clots",NULL,0,0,0
+"ipilimumab","blood clots",NULL,0,0,0
+"lenalidomide","blood clots",NULL,0,0,1
+"linezolid","blood clots",NULL,0,0,0
+"Liquid Acetaminophen","blood clots",NULL,0,0,0
+"liraglutide","blood clots",NULL,0,0,0
+"ondansetron","blood clots",NULL,0,0,0
+"peginesatide","blood clots",NULL,0,0,1
+"pramipexole","blood clots",NULL,0,0,0
+"Proton Pump Inhibitors","blood clots",2.54162733458,2.54162733458,1,0
+"rosiglitazone","blood clots",NULL,0,0,0
+"Selective Serotonin Reuptake Inhibitor","blood clots",0.825084643343,0.825084643343,0,0
+"sodium oxybate","blood clots",NULL,0,0,0
+"telaprevir","blood clots",NULL,0,0,0
+"tolvaptan","blood clots",NULL,0,0,0
+"topiramate","blood clots",NULL,0,0,0
+"valproate","blood clots",NULL,0,0,0
+"varenicline","blood clots",NULL,0,0,0
+"zoledronic acid","blood clots",NULL,0,0,0
+"ibuprofen","blood clots",NULL,0,0,0
+"acetaminophen","blood clots",NULL,0,0,0
+"aspirin","blood clots",3.42350197502,3.42350197502,1,0
+"(linagliptin OR exenatide OR liraglutide OR sitagliptin OR saxagliptin OR alogliptin)","thromboembolism",NULL,0,0,0
+"5-alpha reductase inhibitors","thromboembolism",NULL,0,0,0
+"Abacavir","thromboembolism",NULL,0,0,0
+"aliskiren","thromboembolism",NULL,0,0,0
+"Antipsychotics","thromboembolism",0.286068295908,0.286068295908,0,0
+"asenapine","thromboembolism",NULL,0,0,0
+"Azithromycin","thromboembolism",NULL,0,0,0
+"benzocaine","thromboembolism",NULL,0,0,0
+"bisphosphonates","thromboembolism",0.564696145794,0.564696145794,0,0
+"boceprevir","thromboembolism",NULL,0,0,0
+"brentuximab","thromboembolism",NULL,0,0,0
+"citalopram","thromboembolism",0.276378284164,0.276378284164,0,0
+"dabigatran","thromboembolism",57.0320214513,57.0320214513,1,0
+"dalfampridine","thromboembolism",NULL,0,0,0
+"dasatinib","thromboembolism",0.801932967917,0.801932967917,0,0
+"dronedarone","thromboembolism",4.28043623357,4.28043623357,1,0
+"Drospirenone","thromboembolism",26.1898573523,26.1898573523,1,1
+"fluconazole","thromboembolism",0.175403711609,0.175403711609,0,0
+"ipilimumab","thromboembolism",NULL,0,0,0
+"lenalidomide","thromboembolism",15.2669939494,15.2669939494,1,1
+"linezolid","thromboembolism",0.543167372881,0.543167372881,0,0
+"Liquid Acetaminophen","thromboembolism",NULL,0,0,0
+"liraglutide","thromboembolism",NULL,0,0,0
+"ondansetron","thromboembolism",NULL,0,0,0
+"peginesatide","thromboembolism",NULL,0,0,1
+"pramipexole","thromboembolism",NULL,0,0,0
+"Proton Pump Inhibitors","thromboembolism",0.342946693939,0.342946693939,0,0
+"rosiglitazone","thromboembolism",0.131765604109,0.131765604109,0,0
+"Selective Serotonin Reuptake Inhibitor","thromboembolism",0.136472009689,0.136472009689,0,0
+"sodium oxybate","thromboembolism",NULL,0,0,0
+"telaprevir","thromboembolism",NULL,0,0,0
+"tolvaptan","thromboembolism",NULL,0,0,0
+"topiramate","thromboembolism",0.789499844744,0.789499844744,0,0
+"valproate","thromboembolism",0.281008609778,0.281008609778,0,0
+"varenicline","thromboembolism",NULL,0,0,0
+"zoledronic acid","thromboembolism",0.531187283342,0.531187283342,0,0
+"ibuprofen","thromboembolism",0.305858039413,0.305858039413,0,0
+"acetaminophen","thromboembolism",0.0854737631949,0.0854737631949,0,0
+"aspirin","thromboembolism",5.48313358006,5.48313358006,1,0

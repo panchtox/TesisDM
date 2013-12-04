@@ -1,0 +1,34 @@
+Buscar coincidencias x alerta y x droga entre los que 'alertlink' no es nulo (o sea en los que identifique que el termino esta en un texto especifico de las fuentes primarias).
+
+Se etiqueta en la columna 'presentalert' si esta el evento presente semitextual en el texto de 'alertlink'
+
+Buscar aquellos terminos que no estan en ninguno de los alertlink, a ver si hay alguna coincidencia o son terminos acuniados 'de novo'.
+
+Borrar en una copia de la tabla ('03_combine_copy') los 'de novo' o bien colocar el alertlink apropiado.
+
+SELECT c.presentalert,c.id,c.drug,c.alert,c.so,c.link,c.alertlink
+from 03_combine c
+where c.alert not in (select alert from 03_combine where alertlink is not null group by alert)
+group by id
+;
+
+Borrados:
+	'ventricular arrhythmia'
+	'petechiae'
+	'breast cancer'
+	'cardiac failure'
+	'insomnia'
+	'stevens johnson'
+	'creatinine elevation' (probar si puede ser reemplazado por 'creatinine' que si esta)
+	'hepatitis'
+	'transaminases'
+	'deep vein thrombosis'
+
+delete from 03_combine_copy where alert ='deep vein thrombosis';
+
+Generar tabla para analisis de performance
+select drug,alert,rate,if(rate is null,0,rate) ratefill,if(rate>1,1,0) ratecat,class1 from 03_combine_copy;
+
+Exportar a 'performance.csv' y analizar
+
+en 'performance.R' está el script para calcular performance
