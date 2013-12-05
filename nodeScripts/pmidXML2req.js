@@ -7,13 +7,17 @@ function gotXML(xml) {
   var list=parsedXML('Id').map(function(i, id) {
   		return id.children[0].data;
   }
-  ).join(',');
-  return list;
+  );
+  var ids=[];
+  ids[0]=list.length;
+  ids[1]=list.join(',');
+  return ids;
 }
 
 var filehandle = fs.readFile("../xmlPMIDs/pmidsExample.xml", function(err, data) {
 	var x=gotXML(data);
-	console.log(x);
+	console.log(x[0]);
+	console.log(x[1]);
 	var options = {
 		host: 'eutils.ncbi.nlm.nih.gov',
 		port: 80,
@@ -25,7 +29,7 @@ var texto='';
 
 	var req = http.request(options, function(res) {
 		res.on('data', function (chunk) {
-			fs.appendFile('eureka.xml', chunk, function (err) {
+			fs.appendFile('../xmlAE/eureka.xml', chunk, function (err) {
 				if(err) throw err;
 			});
 		});
